@@ -34,23 +34,25 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 ## Ecosystem Projects
 
-* [GitOps Engine](https://github.com/argoproj/gitops-engine)
-* [Notifications for Argo CD](https://github.com/argoproj-labs/argocd-notifications)
-* [Argo CD ApplicationSet](https://github.com/argoproj-labs/applicationset)
-* [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater)
-* [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator)
-* [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions)
-* [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension)
-* [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow)
-* [Couler](https://github.com/couler-proj/couler)
-* [Katib](https://github.com/kubeflow/katib)
-* [Kedro](https://kedro.readthedocs.io/en/stable/)
-* [Kubeflow Pipelines](https://github.com/kubeflow/pipelines)
-* [Onepanel](https://www.onepanel.ai/)
-* [Ploomber](https://github.com/ploomber/ploomber)
-* [Seldon](https://github.com/SeldonIO/seldon-core)
-* [SQLFlow](https://github.com/sql-machine-learning/sqlflow)
-* [Hera Workflows](https://github.com/argoproj-labs/hera-workflows)
+This section includes selected projects from [argoproj-labs](https://github.com/argoproj-labs) as well as other open source projects that use Argo.
+
+* [GitOps Engine](https://github.com/argoproj/gitops-engine) contains various GitOps operators that address different use-cases and provide different user experiences but all have similar set of core features.
+* [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
+* [Argo CD ApplicationSet](https://github.com/argoproj-labs/applicationset) manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.
+* [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
+* [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
+* [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) enables extensions for Argo CD.
+* [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
+* [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow) is a Kubernetes-native platform for executing large parallel data-processing pipelines.
+* [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
+* [Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
+* [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
+* [Ploomber](https://github.com/ploomber/ploomber) helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
+* [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
+* [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
+* [Hera Workflows](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
 
 <a name="books" />
 
