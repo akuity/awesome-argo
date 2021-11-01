@@ -21,7 +21,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Projects](#projects)
+- [Projects](#ecosystem-projects)
 - [Books](#books)
 - [Blog posts](#blogs)
 - [Videos](#videos)
@@ -30,9 +30,9 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 <!-- /MarkdownTOC -->
 
-<a name="projects" />
+<a name="ecosystem-projects" />
 
-## Projects
+## Ecosystem Projects
 
 * [GitOps Engine](https://github.com/argoproj/gitops-engine)
 * [Notifications for Argo CD](https://github.com/argoproj-labs/argocd-notifications)
