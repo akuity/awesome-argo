@@ -65,7 +65,7 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 
 ## Blog Posts
 
-* [Official Argo Blog](https://blog.argoproj.io/)
+* [Official Argo Project Blog](https://blog.argoproj.io/)
 * [GitOps Model for Provisioning and Bootstrapping Amazon EKS Clusters Using Crossplane and Argo CD](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
 * [Argo Ansible role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo Workflows vs Apache Airflow](http://bit.ly/30YNIvT)
@@ -97,6 +97,7 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 
 ## Videos
 
+* [Official Argo Project YouTube Channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA)
 * [Making Complex R Forecast Applications Into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
 * [Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
 * [Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
