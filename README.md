@@ -64,6 +64,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 ## Blog Posts
 
 * [Official Argo Blog](https://blog.argoproj.io/)
+* [GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Argo CD](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
 * [Argo Ansible role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo Workflows vs Apache Airflow](http://bit.ly/30YNIvT)
 * [CI/CD with Argo on Kubernetes](https://medium.com/@bouwe.ceunen/ci-cd-with-argo-on-kubernetes-28c1a99616a9)
