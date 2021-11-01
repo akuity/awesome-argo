@@ -10,7 +10,7 @@ A curated list of awesome projects and resources related to [Argo](https://argop
 
 ## What is Argo?
 
-Argo consists of a set of open source tools for Kubernetes to run workflows, manage clusters, and do GitOps right, including:
+Argo consists of a set of open source tools for deploying and running applications and workloads on Kubernetes, including:
 * [Argo Workflows](https://argoproj.github.io/workflows/): Kubernetes-native workflow engine supporting DAG and step-based workflows.
 * [Argo CD](https://argoproj.github.io/cd/): Declarative continuous delivery with a fully-loaded UI.
 * [Argo Rollouts](https://argoproj.github.io/rollouts/): Advanced Kubernetes deployment strategies such as Canary and Blue-Green made easy.
@@ -126,7 +126,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 ## Community
 
-* [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)([ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics))
+* [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com) ([ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics))
 * [Argo Project GitHub organization](https://github.com/argoproj)
 * [Community governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md)
 * [Slack](https://argoproj.github.io/community/join-slack)
