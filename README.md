@@ -32,6 +32,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 * [Notifications for Argo CD](https://github.com/argoproj-labs/argocd-notifications)
 * [Argo CD ApplicationSet](https://github.com/argoproj-labs/applicationset)
 * [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater)
+* [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator)
 * [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions)
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension)
 * [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow)
