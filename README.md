@@ -1,4 +1,6 @@
-# Awesome Argo  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/terrytangyuan/awesome-argo)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/terrytangyuan/awesome-argo)[![Twitter Follow](https://img.shields.io/twitter/follow/argoproj?style=social)](https://twitter.com/argoproj)[![Slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=slack)](https://argoproj.github.io/community/join-slack)
+
+# Awesome Argo
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
@@ -121,17 +123,20 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 ## Community
 
 * [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com)([ICS file](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics))
+* [Argo Project GitHub organization](https://github.com/argoproj)
 * [Community governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md)
 * [Slack](https://argoproj.github.io/community/join-slack)
 * [Twitter](https://twitter.com/argoproj)
 * [Reddit](https://www.reddit.com/r/argoproj/)
+* [ArgoCon](https://argoproj.github.io/argocon21/)
+* [Argo at conferences](https://docs.google.com/document/d/1VWiwmintCq7cdoZaW8D49JpEWbLJ6PrOWQNELRg1ALg/edit?usp=sharing)
 
 
 <a name="acknowledgement" />
 
 ## Acknowledgement
 
-* Some of the references are originally documented in [Argo's community blogs and presentations](https://github.com/argoproj/argoproj#community-blogs-and-presentations). Thanks to the contributors who've submitted pull requests to add the references, specially:
+Some of the blogposts and videos are selected from [Argo's community blogs and presentations](https://github.com/argoproj/argoproj#community-blogs-and-presentations). Thanks to the contributors who've submitted pull requests to add the original references to the following locations:
 	* [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations)
 	* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#community-blogs-and-presentations)
 	* [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#community-blogs-and-presentations)
