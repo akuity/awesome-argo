@@ -95,7 +95,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 ## Videos
 
-* [Making Complex R Forecast Applications Into Production Using Argo Workflow](https://www.youtube.com/watch?v=fPjztsUXHcg)
+* [Making Complex R Forecast Applications into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
 * [Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
 * [Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
 * [TGI Kubernetes with Joe Beda: Argo Workflow System](https://www.youtube.com/watch?v=M_rxPPLG8pU&start=859)
