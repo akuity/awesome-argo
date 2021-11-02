@@ -30,11 +30,12 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 <!-- /MarkdownTOC -->
 
+
 <a name="ecosystem-projects" />
 
 ## Ecosystem Projects
 
-This section includes selected projects from [argoproj-labs](https://github.com/argoproj-labs) as well as other open source projects that use Argo.
+Selected projects from [argoproj-labs](https://github.com/argoproj-labs):
 
 * [GitOps Engine](https://github.com/argoproj/gitops-engine) contains various GitOps operators that address different use-cases and provide different user experiences but all have similar set of core features.
 * [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
@@ -44,6 +45,11 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 * [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) enables extensions for Argo CD.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
 * [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow) is a Kubernetes-native platform for executing large parallel data-processing pipelines.
+* [Hera Workflows](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
+* [Argo Workflows Catalog](https://github.com/argoproj-labs/argo-workflows-catalog) contains free reusable templates for Argo Workflows.
+
+Other open source projects that use Argo:
+
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
@@ -52,7 +58,7 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 * [Ploomber](https://github.com/ploomber/ploomber) helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
-* [Hera Workflows](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
+
 
 <a name="books" />
 
@@ -60,6 +66,7 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 
 * [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) teaches you how to use Git and the GitOps methodology to manage a Kubernetes cluster. The book interleaves theory with practice, presenting core Ops concepts alongside easy-to-implement techniques so you can put GitOps into action. Learn to develop pipelines that trace changes, roll back mistakes, and audit container deployment.
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows with real-world scenarios and hands-on projects.
+
 
 <a name="blogs" />
 
@@ -139,7 +146,6 @@ This section includes selected projects from [argoproj-labs](https://github.com/
 * [Slack](https://argoproj.github.io/community/join-slack)
 * [Twitter](https://twitter.com/argoproj)
 * [Reddit](https://www.reddit.com/r/argoproj/)
-
 
 
 <a name="acknowledgement" />
