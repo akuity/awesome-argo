@@ -109,6 +109,15 @@ Other open source projects that use Argo:
 ## Videos
 
 * [Official Argo Project YouTube Channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA)
+* [The Argo Ecosystem: Tailoring Your Installation Through Community Add-ons](https://youtu.be/EPtiDNXpS78)
+* [Manage More Clusters with Less Hassle, with Argo CD Application Sets](https://youtu.be/GcvHKc2IHi8)
+* [Shh, It’s a Secret: Managing Your Secrets in a GitOps Way](https://youtu.be/7L6nSuKbC2c)
+* [Argo And Tekton: Pushing The Boundaries Of The Possible On Kubernetes](https://youtu.be/iPRw_n_JV4o)
+* [Level Unlocked: GitOps to the Edge and Infrastructure Provisioning](https://youtu.be/4zDm23kA8oE)
+* [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
+* [Building a Successful Open Source Community as an End-user Company](https://youtu.be/BrZMZJc3Vh4)
+* [GitOps Cloud Resource Management](https://youtu.be/TJQHB8XVW44)
+* [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Making Complex R Forecast Applications Into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
 * [Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
 * [Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
