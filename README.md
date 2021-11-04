@@ -117,6 +117,8 @@ Other open source projects that use Argo:
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
 * [Building a Successful Open Source Community as an End-user Company](https://youtu.be/BrZMZJc3Vh4)
 * [GitOps Cloud Resource Management](https://youtu.be/TJQHB8XVW44)
+* [Robocat Meets Octopus and Octocat: Interoperability in CI/CD](https://youtu.be/Yq5lqr6n0E8)
+* [A Multi-Cluster, Multi-Cloud Infrastructure with GitOps at CERN](https://youtu.be/h6xDWc6fXao)
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Making Complex R Forecast Applications Into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
 * [Automation of Everything - How To Combine Argo Events, Workflows & Pipelines, CD, and Rollouts](https://youtu.be/XNXJtxkUKeY)
