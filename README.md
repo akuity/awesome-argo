@@ -23,7 +23,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 <!-- MarkdownTOC depth=4 -->
 - [Ecosystem Projects](#ecosystem-projects)
 - [Books](#books)
-- [Blog posts](#blogs)
+- [Blog Posts](#blogs)
 - [Videos](#videos)
 - [Community](#community)
 - [Acknowledgement](#acknowledgement)
