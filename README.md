@@ -6,7 +6,7 @@
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
-![Argo Image](https://github.com/argoproj/argoproj/blob/master/docs/assets/argo.png)
+![Argo Image](images/argo.png)
 
 ## What is Argo?
 
