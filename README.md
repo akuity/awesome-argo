@@ -113,7 +113,7 @@ Other open source projects that use Argo:
 * [The Argo Ecosystem: Tailoring Your Installation Through Community Add-ons](https://youtu.be/EPtiDNXpS78)
 * [Manage More Clusters with Less Hassle, with Argo CD Application Sets](https://youtu.be/GcvHKc2IHi8)
 * [Shh, It’s a Secret: Managing Your Secrets in a GitOps Way](https://youtu.be/7L6nSuKbC2c)
-* [Argo And Tekton: Pushing The Boundaries Of The Possible On Kubernetes](https://youtu.be/iPRw_n_JV4o)
+* [Argo and Tekton: Pushing the Boundaries of the Possible on Kubernetes](https://youtu.be/iPRw_n_JV4o)
 * [Level Unlocked: GitOps to the Edge and Infrastructure Provisioning](https://youtu.be/4zDm23kA8oE)
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
 * [Building a Successful Open Source Community as an End-user Company](https://youtu.be/BrZMZJc3Vh4)
