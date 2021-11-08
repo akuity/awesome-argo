@@ -49,7 +49,7 @@ Selected projects from [argoproj-labs](https://github.com/argoproj-labs):
 * [Hera Workflows](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
 * [Argo Workflows Catalog](https://github.com/argoproj-labs/argo-workflows-catalog) contains free reusable templates for Argo Workflows.
 * [Argo CloudOps](https://github.com/argoproj-labs/argo-cloudops) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
-
+* [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for argocd. By implementing ArgoCDs HTTP API crossplanes provider-argocd provides dedicated resources in Kubernetes instead of patching Configmaps, thus enabling tenancy in gitops.
 
 Other open source projects that use Argo:
 
