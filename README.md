@@ -49,7 +49,6 @@ Selected projects from [argoproj-labs](https://github.com/argoproj-labs):
 * [Hera Workflows](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
 * [Argo Workflows Catalog](https://github.com/argoproj-labs/argo-workflows-catalog) contains free reusable templates for Argo Workflows.
 * [Argo CloudOps](https://github.com/argoproj-labs/argo-cloudops) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
-* [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for argocd. By implementing ArgoCDs HTTP API crossplanes provider-argocd provides dedicated resources in Kubernetes instead of patching Configmaps, thus enabling tenancy in gitops.
 
 Other open source projects that use Argo:
 
@@ -58,6 +57,7 @@ Other open source projects that use Argo:
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
+* [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for Argo CD. By implementing Argo CD HTTP APIs, provider-argocd provides dedicated resources in Kubernetes instead of patching ConfigMaps, thus enabling tenancy in GitOps.
 * [Ploomber](https://github.com/ploomber/ploomber) helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
 * [Seldon](https://github.com/SeldonIO/seldon-core) is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
