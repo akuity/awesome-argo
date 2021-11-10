@@ -52,7 +52,7 @@ Selected projects from [argoproj-labs](https://github.com/argoproj-labs):
 
 Other open source projects that use Argo:
 
-* [argocd-vault-plugin](https://github.com/IBM/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources
+* [argocd-vault-plugin](https://github.com/IBM/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
