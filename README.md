@@ -35,9 +35,11 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 ## Ecosystem Projects
 
-Selected projects from [argoproj-labs](https://github.com/argoproj-labs):
+Selected projects from [argoproj](https://github.com/argoproj) and [argoproj-labs](https://github.com/argoproj-labs):
 
 * [GitOps Engine](https://github.com/argoproj/gitops-engine) contains various GitOps operators that address different use-cases and provide different user experiences but all have similar set of core features.
+* [Notifications Engine](https://github.com/argoproj/notifications-engine) is a configuration-driven Golang library that provides notifications for cloud-native applications.
+* [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community maintained Helm charts for Argo projects.
 * [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
 * [Argo CD ApplicationSet](https://github.com/argoproj-labs/applicationset) manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.
 * [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
