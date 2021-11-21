@@ -79,7 +79,8 @@ Other open source projects that use Argo:
 
 ## Blog Posts
 
-* [Official Argo Project Blog](https://blog.argoproj.io/)
+Please check out the [official Argo project blog](https://blog.argoproj.io/). Additional links:
+
 * [Applied GitOps with Argo CD](https://thenewstack.io/applied-gitops-with-argocd/)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
@@ -115,7 +116,8 @@ Other open source projects that use Argo:
 
 ## Videos
 
-* [Official Argo Project YouTube Channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA)
+Please check out the [official Argo project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA). Additional links:
+
 * [Argo and Tekton: Pushing the Boundaries of the Possible on Kubernetes](https://youtu.be/iPRw_n_JV4o)
 * [Argo CD: Applying GitOps Principles To Manage Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
 * [Argo CD - GitOps Continuous Delivery for Kubernetes](https://www.youtube.com/watch?v=aWDIQMbp1cc&feature=youtu.be&t=1m4s)
