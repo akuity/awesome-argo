@@ -57,8 +57,8 @@ Other open source projects that use Argo:
 
 * [argocd-vault-plugin](https://github.com/IBM/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
-* [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
 * [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for Argo CD.
