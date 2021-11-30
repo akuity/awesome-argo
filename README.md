@@ -55,6 +55,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 
 Other open source projects that use Argo:
 
+* [active-monitor](https://github.com/keikoproj/active-monitor) is a Kubernetes controller which enables deep cluster monitoring and self-healing using Argo Workflows.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
 * [argocd-vault-plugin](https://github.com/IBM/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [argoflow](https://github.com/argoflow/argoflow) provides a fully declarative and GitOps approach to deploy and maintain your Kubeflow distribution with ArgoCD.
