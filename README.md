@@ -43,6 +43,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
 * [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) enables extensions for Argo CD.
 * [Argo CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) offers an opinionated way of installing Argo CD and managing GitOps repositories.
+* [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Argo CloudOps](https://github.com/argoproj-labs/argo-cloudops) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
 * [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow) is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community maintained Helm charts for Argo projects.
@@ -57,7 +58,6 @@ Other open source projects that use Argo:
 
 * [active-monitor](https://github.com/keikoproj/active-monitor) is a Kubernetes controller which enables deep cluster monitoring and self-healing using Argo Workflows.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
-* [argocd-vault-plugin](https://github.com/IBM/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [argoflow](https://github.com/argoflow/argoflow) provides a fully declarative and GitOps approach to deploy and maintain your Kubeflow distribution with ArgoCD.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
