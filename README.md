@@ -148,8 +148,8 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * :bell: (Link TBA) Deployments on the Edge using Argo CD & Workflows and K3s
 * :bell: [Dynamic, Event-Driven Machine Learning Pipelines with Argo Workflows](https://youtu.be/ei4r0a7eAV0)
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
-* [Environments Based On Pull Requests (PRs): Using Argo CD To Apply GitOps Principles On Previews](https://youtu.be/cpAaI8p4R60)
-* :bell: (Link TBA) Extending GitOps to manage K8s (so you don’t have to)!
+* [Environments Based on Pull Requests (PRs): Using Argo CD To Apply GitOps Principles on Previews](https://youtu.be/cpAaI8p4R60)
+* :bell: (Link TBA) Extending GitOps to Manage K8s (so you don’t have to)!
 * [GitOps Cloud Resource Management](https://youtu.be/TJQHB8XVW44)
 * [GitOps Guide to the Galaxy: Argo Workflows](https://www.youtube.com/watch?v=2lI41q8Z7ko)
 * [GitOps with Argo CD and an Argo Rollouts Canary Release](https://www.youtube.com/watch?v=35Qimb_AZ8U)
