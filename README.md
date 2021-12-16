@@ -159,7 +159,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * :bell: (Link TBA) How Scalable is Argo-Rollouts: A Cloud Operator’s Perspective
 * [How to Apply GitOps to Everything - Combining Argo CD and Crossplane](https://youtu.be/yrj4lmScKHQ)
 * [Introduction to Argo CD: Kubernetes DevOps CI/CD](https://www.youtube.com/watch?v=2WSJF7d8dUg&feature=youtu.be)
-* :bell: (Link TBA) Journey of the Argonauts
+* :bell: [Journey of the Argonauts](https://youtu.be/boqZFQRLc9s)
 * [Kubernetes Blue-Green Deployments with Argo Rollouts](https://www.youtube.com/watch?v=krDxDz4V4Tg)
 * [Kubernetes Canary Deployments with Argo Rollouts](https://www.youtube.com/watch?v=fviYWA2mcF8)
 * [Leveling Up Your CD: Unlocking Progressive Delivery on Kubernetes](https://www.youtube.com/watch?v=Nv0PPwbIEkY)
@@ -172,14 +172,14 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * :bell: (Link TBA) Processing Petabytes in Python with Argo Workflows & Dask
 * [Robocat Meets Octopus and Octocat: Interoperability in CI/CD](https://youtu.be/Yq5lqr6n0E8)
 * :bell: (Link TBA) Scaling Kubernetes across BlackRock’s Aladdin Platform
-* :bell: (Link TBA) Scaling Software Delivery on Argo
+* :bell: [Scaling Software Delivery on Argo](https://youtu.be/hS_y4SxiPME)
 * [Shh, It’s a Secret: Managing Your Secrets in a GitOps Way](https://youtu.be/7L6nSuKbC2c)
 * :bell: [Supercharge Your Dev Experience [DX] with ArgoCD, Crossplane, & Shipa](https://youtu.be/-p0sn_X2CXQ)
 * [TGI Kubernetes with Joe Beda: Argo Workflow System](https://www.youtube.com/watch?v=M_rxPPLG8pU&start=859)
 * [TGI Kubernetes with Joe Beda: CloudEvents and Argo Events](https://www.youtube.com/watch?v=LQbBgQnUs_k&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=2&t=0s)
 * [The Argo Ecosystem: Tailoring Your Installation Through Community Add-ons](https://youtu.be/EPtiDNXpS78)
 * :bell: [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
-* :bell: (Link TBA) The Journey from DevOps to GitOps
+* :bell: [The Journey from DevOps to GitOps](https://youtu.be/2kokbYtslbw)
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
 [GitOps Continuous Delivery with Argo and Codefresh](https://codefresh.io/events/cncf-member-webinar-gitops-continuous-delivery-argo-codefresh/)
