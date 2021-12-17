@@ -145,7 +145,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Combining Argo CD (GitOps), Crossplane (Control Plane), and KubeVela (OAM)](https://youtu.be/eEcgn_gU3SM)
 * [Couchbase - How To Run a Database Cluster in Kubernetes Using Argo CD](https://youtu.be/nkPoPaVzExY)
 * :bell: [Deploying Cluster Addons at Scale using ApplicationSets](https://youtu.be/Yj60Co4UxXk)
-* :bell: (Link TBA) Deployments on the Edge using Argo CD & Workflows and K3s
+* :bell: [Deployments on the Edge using Argo CD & Workflows and K3s](https://youtu.be/9BSXBgaOmr4)
 * :bell: [Dynamic, Event-Driven Machine Learning Pipelines with Argo Workflows](https://youtu.be/ei4r0a7eAV0)
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
 * [Environments Based on Pull Requests (PRs): Using Argo CD To Apply GitOps Principles on Previews](https://youtu.be/cpAaI8p4R60)
