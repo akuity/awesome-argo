@@ -89,14 +89,11 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Applied GitOps with Argo CD](https://thenewstack.io/applied-gitops-with-argocd/)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
-* [Argo Workflows vs Apache Airflow](http://bit.ly/30YNIvT)
 * [Building a Successful Open Source Community as an End User Company](https://medium.com/intuit-engineering/building-a-successful-open-source-community-as-an-end-user-company-89a70445134)
 * [CI/CD with Argo on Kubernetes](https://medium.com/@bouwe.ceunen/ci-cd-with-argo-on-kubernetes-28c1a99616a9)
-* [Comparison of Argo CD, Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
 * [Decentralized GitOps Over Environments](https://blogs.sap.com/2021/05/06/decentralized-gitops-over-environments/)
 * [Deploy Argo CD with Ingress and TLS in Three Steps: No YAML Yak Shaving Required](https://itnext.io/deploy-argo-cd-with-ingress-and-tls-in-three-steps-no-yaml-yak-shaving-required-bc536d401491)
 * [Designing A Complete CI/CD Pipeline CI/CD Pipeline Using Argo Events, Workflows, and CD](https://www.slideshare.net/JulianMazzitelli/designing-a-complete-ci-cd-pipeline-using-argo-events-workflow-and-cd-products-228452500)
-* [Flux vs ArgoCD](https://gatsby-casper.netlify.com/2021-10-28-flux-vs-argocd/)
 * [GitOps Deployment and Kubernetes - using Argo CD](https://medium.com/riskified-technology/gitops-deployment-and-kubernetes-f1ab289efa4b)
 * [GitOps for Kubeflow using Argo CD](https://v0-6.kubeflow.org/docs/use-cases/gitops-for-kubeflow/)
 * [GitOps Model for Provisioning and Bootstrapping Amazon EKS Clusters Using Crossplane and Argo CD](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
@@ -115,6 +112,15 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Simplify and Automate Deployments Using GitOps with IBM Multicloud Manager 3.1.2](https://www.ibm.com/cloud/blog/simplify-and-automate-deployments-using-gitops-with-ibm-multicloud-manager-3-1-2)
 * [Solving Configuration Drift Using GitOps with Argo CD](https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-with-argo-cd/)
 * [Stay Up to Date With Argo CD and Renovate](https://mjpitz.com/blog/2020/12/03/renovate-your-gitops/)
+
+Blogposts that provide comparisons:
+* ArgoCD
+  * vs. Flux: [[0]](https://www.sgmoratilla.com/2021-10-28-flux-vs-argocd/), [[1]](https://rajputvaibhav.medium.com/argo-cd-vs-flux-cd-right-gitops-tool-for-your-kubernetes-cluster-c71cff489d26), [[2]](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
+  * [vs. Spinnaker](https://tech.trell.co/choosing-a-continous-delivery-tool-spinnaker-vs-argocd-9adcc65a4fde)
+  * [vs. Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
+* Argo Workflows
+  * [vs. Apache Airflow](http://bit.ly/30YNIvT)
+  * [vs. Airflow and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
 
 
 <a name="videos" />
