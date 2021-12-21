@@ -71,6 +71,7 @@ Other open source projects that use Argo:
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) is the Terraform provider for Argo CD.
 * [Orkestra](https://github.com/Azure/orkestra) is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent Helm charts and their dependencies.
+* [Heqet](https://github.com/lib42/heqet) is a Argo-CD Configuration Management Plugin & Helm-Chart that simplifies "Monorepo" GitOps deployments using the App-of-Apps-pattern and abstraction.
 
 <a name="books" />
 
