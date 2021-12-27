@@ -200,7 +200,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Argo at Conferences](https://docs.google.com/document/d/1VWiwmintCq7cdoZaW8D49JpEWbLJ6PrOWQNELRg1ALg/edit?usp=sharing)
 * [ArgoCon](https://argoproj.github.io/argocon21/)
 * [Slack](https://argoproj.github.io/community/join-slack)
-* [Twitter](https://twitter.com/argoproj)
+* [Twitter](https://twitter.com/argoproj) ([list of Argo Maintainers](https://twitter.com/i/lists/1474577444288049155))
 * [Reddit](https://www.reddit.com/r/argoproj/)
 
 
