@@ -89,6 +89,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Applied GitOps with Argo CD](https://thenewstack.io/applied-gitops-with-argocd/)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
+* [Argo 101 - What is Argo?](https://blog.akuity.io/argo-101-what-is-argo-82d78e0205c)
 * [Building a Successful Open Source Community as an End User Company](https://medium.com/intuit-engineering/building-a-successful-open-source-community-as-an-end-user-company-89a70445134)
 * [CI/CD with Argo on Kubernetes](https://medium.com/@bouwe.ceunen/ci-cd-with-argo-on-kubernetes-28c1a99616a9)
 * [Decentralized GitOps Over Environments](https://blogs.sap.com/2021/05/06/decentralized-gitops-over-environments/)
