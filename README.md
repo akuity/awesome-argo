@@ -115,6 +115,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Solving Configuration Drift Using GitOps with Argo CD](https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-with-argo-cd/)
 * [Stay Up to Date With Argo CD and Renovate](https://mjpitz.com/blog/2020/12/03/renovate-your-gitops/)
 * [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://blog.akuity.io/unveil-the-secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argo-cd-7c5b4057ee49)
+* [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 
 Blogposts that provide comparisons:
 * ArgoCD
