@@ -204,6 +204,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Argo Project GitHub Organization](https://github.com/argoproj) ([Maintainers](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) and [Community Governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md))
 * [Argo at Conferences](https://docs.google.com/document/d/1VWiwmintCq7cdoZaW8D49JpEWbLJ6PrOWQNELRg1ALg/edit?usp=sharing)
 * [ArgoCon](https://argoproj.github.io/argocon21/)
+* [LinkedIn](https://www.linkedin.com/company/argoproj/)
 * [Slack](https://argoproj.github.io/community/join-slack)
 * [Twitter](https://twitter.com/argoproj) ([list of Argo Maintainers on Twitter](https://twitter.com/i/lists/1474577444288049155))
 * [Reddit](https://www.reddit.com/r/argoproj/)
