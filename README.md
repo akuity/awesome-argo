@@ -180,6 +180,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Level Unlocked: GitOps to the Edge and Infrastructure Provisioning](https://youtu.be/4zDm23kA8oE)
 * [Litmus 2 - Chaos Engineering Meets Argo Workflows](https://youtu.be/B8DfYnDh2F4)
 * [Machine Learning as Code: GitOps for ML with Kubeflow and ArgoCD](https://www.youtube.com/watch?v=VXrGp5er1ZE&t=0s&index=135&list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
+* [Machine Learning with Argo and Ploomber](https://youtu.be/FnpXyg-5W_c?t=172)
 * [Maintainer Update on Argo CD and Rollouts](https://youtu.be/wn6OOLoHvQg)
 * [Maintainer Update on Argo Workflows and Events](https://youtu.be/FUekn40l9-A)
 * [Making Complex R Forecast Applications Into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
