@@ -21,12 +21,13 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Ecosystem Projects](#ecosystem-projects)
-- [Books](#books)
-- [Blog Posts](#blogs)
-- [Videos](#videos)
-- [Community](#community)
-- [Acknowledgement](#acknowledgement)
+
+  - [Ecosystem Projects](#ecosystem-projects)
+  - [Books](#books)
+  - [Blog Posts](#blog-posts)
+  - [Videos](#videos)
+  - [Community](#community)
+  - [Acknowledgement](#acknowledgement)
 
 <!-- /MarkdownTOC -->
 
@@ -100,6 +101,8 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Designing A Complete CI/CD Pipeline CI/CD Pipeline Using Argo Events, Workflows, and CD](https://www.slideshare.net/JulianMazzitelli/designing-a-complete-ci-cd-pipeline-using-argo-events-workflow-and-cd-products-228452500)
 * [GitOps Deployment and Kubernetes - using Argo CD](https://medium.com/riskified-technology/gitops-deployment-and-kubernetes-f1ab289efa4b)
 * [GitOps for Kubeflow using Argo CD](https://v0-6.kubeflow.org/docs/use-cases/gitops-for-kubeflow/)
+* [GitOps - Getting Started with ArgoCD](https://vzilla.co.uk/vzilla-blog/gitops-getting-started-with-argocd)
+* [GitOps - Including Backup in your continous deployments](https://vzilla.co.uk/vzilla-blog/gitops-including-backup-in-your-continuous-deployments)
 * [GitOps Model for Provisioning and Bootstrapping Amazon EKS Clusters Using Crossplane and Argo CD](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
 * [GitOps Toolsets on Kubernetes with CircleCI and Argo CD](https://www.digitalocean.com/community/tutorials/webinar-series-gitops-tool-sets-on-kubernetes-with-circleci-and-argo-cd)
 * [Gradual Code Releases Using an In-House Kubernetes Canary Controller on Top of Argo Rollouts](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)
@@ -171,6 +174,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [How Intuit Does Canary and Blue Green Deployments](https://www.youtube.com/watch?v=yeVkTTO9nOA)
 * [How Scalable is Argo-Rollouts: A Cloud Operator’s Perspective](https://youtu.be/rCEhxJ2NSTI)
 * [How to Apply GitOps to Everything - Combining Argo CD and Crossplane](https://youtu.be/yrj4lmScKHQ)
+* [Integrating Backup Into Your GitOps CICD Pipeline](https://youtu.be/2mjlmjJ4NjQ)
 * [Introducing Couler: Unified Interface for Constructing and Managing Workflows](https://github.com/terrytangyuan/public-talks/tree/main/talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting)
 * [Introduction to Argo CD: Kubernetes DevOps CI/CD](https://www.youtube.com/watch?v=2WSJF7d8dUg&feature=youtu.be)
 * [Journey of the Argonauts](https://youtu.be/boqZFQRLc9s)
