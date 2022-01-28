@@ -139,6 +139,7 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA). Additional links:
 
+* [A Briefer History of Argo Project from the Founding Engineers](https://youtu.be/FQ9uB8FuX_I)
 * [A Multi-Cluster, Multi-Cloud Infrastructure with GitOps at CERN](https://youtu.be/h6xDWc6fXao)
 * [Argo-Based Service Delivery for Multi-Tenant, Multi Region Clusters at Adobe](https://youtu.be/Ahps2IwhREw)
 * [Argo: The Present, Past, and Future](https://youtu.be/76iUpAWakIM)
