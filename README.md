@@ -148,6 +148,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Argo CD: Applying GitOps Principles To Manage Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
 * [Argo CD and Stateful Applications - Tips and Tricks](https://youtu.be/_-oVaO4SxLk)
 * [Argo CD Production Best Practices](https://youtu.be/ESQLqjbM8h0)
+* [Argo CD Walkthrough – Learn Argo CD in 18 Minutes](https://youtu.be/2B3qcyCcBXs)
 * [Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 * [Argo Events Deep-dive](https://youtu.be/U4tCYcCK20w)
 * [Argo Rollouts - Canary Deployments Made Easy In Kubernetes](https://youtu.be/84Ky0aPbHvY)
@@ -206,7 +207,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
 * [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
-* [CNCFMinutes ArgoCD - learn ArgoCD in 18 minutes](https://youtu.be/2B3qcyCcBXs)
+
 
 <a name="community" />
 
