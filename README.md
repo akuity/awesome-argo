@@ -206,7 +206,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
 * [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
-
+* [CNCFMinutes ArgoCD - learn ArgoCD in 18 minutes](https://youtu.be/2B3qcyCcBXs)
 
 <a name="community" />
 
