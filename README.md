@@ -162,6 +162,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Building Medical Grade AI with Argo Workflows](https://youtu.be/4VPSktuM5Ow)
 * [CI/CD for Machine Learning at MLB using Argo Workflows](https://youtu.be/fccWoYlwZKc?t=184)
 * [CI/CD in Light Speed with K8s and Argo CD](https://www.youtube.com/watch?v=OdzH82VpMwI&feature=youtu.be)
+* [Cloud Native AutoML with Argo Workflows and Katib](https://youtu.be/KjHqmS4gIxM?t=181)
 * [Cloud-native CI/CD via ArgoCD & Workflows in Multi-region & Muti-cell Environment](https://youtu.be/IPiNWwPgsjw)
 * [Combining Argo CD (GitOps), Crossplane (Control Plane), and KubeVela (OAM)](https://youtu.be/eEcgn_gU3SM)
 * [Couchbase - How To Run a Database Cluster in Kubernetes Using Argo CD](https://youtu.be/nkPoPaVzExY)
