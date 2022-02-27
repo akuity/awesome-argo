@@ -90,6 +90,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 
 * [All About ArgoCD, a Beginner’s Guide](https://dev.to/abhinavd26/all-about-argocd-a-beginners-guide-33c9)
 * [Applied GitOps with Argo CD](https://thenewstack.io/applied-gitops-with-argocd/)
+* [Architecting Workflows For Reliability](https://blog.argoproj.io/architecting-workflows-for-reliability-d33bd720c6cc)
 * [Argo 101 - What is Argo?](https://blog.akuity.io/argo-101-what-is-argo-82d78e0205c)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
