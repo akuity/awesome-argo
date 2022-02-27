@@ -62,6 +62,7 @@ Other open source projects that use Argo:
 * [argocd-interlace](https://github.com/IBM/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
 * [argoflow](https://github.com/argoflow/argoflow) provides a fully declarative and GitOps approach to deploy and maintain your Kubeflow distribution with Argo CD.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
+* [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
