@@ -95,6 +95,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
+* [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
 * [Argo Workflow As the Choice To Run Data Pipelines in Casavo](https://medium.com/casavo/argo-workflow-in-casavo-722b40362e4c)
 * [Automate Canary Analysis on Kubernetes with Argo](https://blog.px.dev/argo-rollouts/)
 * [Building a Successful Open Source Community as an End User Company](https://medium.com/intuit-engineering/building-a-successful-open-source-community-as-an-end-user-company-89a70445134)
