@@ -131,6 +131,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Stay Up to Date With Argo CD and Renovate](https://mjpitz.com/blog/2020/12/03/renovate-your-gitops/)
 * [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://blog.akuity.io/unveil-the-secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argo-cd-7c5b4057ee49)
 * [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
+* [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
 
 Blogposts that provide comparisons:
 * ArgoCD
@@ -217,7 +218,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
 * [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
-
+* [Using Argo CD with vclusters](https://www.youtube.com/watch?v=M3ycfeocvNo)
 
 <a name="community" />
 
