@@ -5,9 +5,14 @@
 
 # Awesome Argo
 
-A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project. This list is maintained by [Akuity](https://akuity.io/) team.
+A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
 ![Argo Image](images/argo.png)
+
+This project is maintained and sponsored by [Akuity](https://akuity.io/).
+
+<img align="center" src="https://akuity.io/assets/images/logo-bitmap.png" alt="akuity" width="50%" height="50%">
+
 
 ## What is Argo?
 
@@ -246,10 +251,6 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 <a name="acknowledgement" />
 
 ## Acknowledgement
-
-Thanks [Akuity](https://akuity.io/) for sponsoring this project.
-
-![Akuity Logo](https://akuity.io/assets/images/logo-bitmap.png)
 
 Some of the blogposts and videos are selected from [Argo's community blogs and presentations](https://github.com/argoproj/argoproj#community-blogs-and-presentations).
 
