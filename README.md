@@ -207,6 +207,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Maintainer Update on Argo Workflows and Events](https://youtu.be/FUekn40l9-A)
 * [Making Complex R Forecast Applications Into Production Using Argo Workflows](https://www.youtube.com/watch?v=fPjztsUXHcg)
 * [Manage More Clusters with Less Hassle, with Argo CD Application Sets](https://youtu.be/GcvHKc2IHi8)
+* [Metaflow Integration with Argo Workflows](https://youtu.be/EagFq5QtcpI?t=859)
 * [MLOps at Tripadvisor: ML Models CI/CD Automation with Argo](https://youtu.be/BochC4GKxbo?t=906)
 * [Multi-Stage Delivery with Keptn and Argo Rollouts](https://www.youtube.com/watch?v=w-E8FzTbN3g&t=1s)
 * [Processing Petabytes in Python with Argo Workflows & Dask](https://youtu.be/f5lPS9WKy_8)
