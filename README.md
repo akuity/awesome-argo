@@ -109,6 +109,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Decentralized GitOps Over Environments](https://blogs.sap.com/2021/05/06/decentralized-gitops-over-environments/)
 * [Deploy Argo CD with Ingress and TLS in Three Steps: No YAML Yak Shaving Required](https://itnext.io/deploy-argo-cd-with-ingress-and-tls-in-three-steps-no-yaml-yak-shaving-required-bc536d401491)
 * [Designing A Complete CI/CD Pipeline CI/CD Pipeline Using Argo Events, Workflows, and CD](https://www.slideshare.net/JulianMazzitelli/designing-a-complete-ci-cd-pipeline-using-argo-events-workflow-and-cd-products-228452500)
+* [Getting Started with ArgoCD for GitOps Kubernetes Deployments](https://medium.com/@outlier.developer/getting-started-with-argocd-for-gitops-kubernetes-deployments-fafc2ad2af0)
 * [GitOps Deployment and Kubernetes - using Argo CD](https://medium.com/riskified-technology/gitops-deployment-and-kubernetes-f1ab289efa4b)
 * [GitOps for Kubeflow using Argo CD](https://v0-6.kubeflow.org/docs/use-cases/gitops-for-kubeflow/)
 * [GitOps - Getting Started with ArgoCD](https://vzilla.co.uk/vzilla-blog/gitops-getting-started-with-argocd)
@@ -184,6 +185,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
 * [Environments Based on Pull Requests (PRs): Using Argo CD To Apply GitOps Principles on Previews](https://youtu.be/cpAaI8p4R60)
 * [Extending GitOps to Manage K8s (so you don’t have to)!](https://youtu.be/bTHkDdXRx24)
+* [Getting Started with ArgoCD for GitOps Deployments](https://youtu.be/AvLuplh1skA)
 * [GitOps Cloud Resource Management](https://youtu.be/TJQHB8XVW44)
 * [GitOps Guide to the Galaxy: Argo Workflows](https://www.youtube.com/watch?v=2lI41q8Z7ko)
 * [GitOps with Argo CD and an Argo Rollouts Canary Release](https://www.youtube.com/watch?v=35Qimb_AZ8U)
@@ -225,6 +227,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
 * [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
 * [Using Argo CD with vclusters](https://www.youtube.com/watch?v=M3ycfeocvNo)
+* [Using Argo CD & Datree for Stable Kubernetes CI/CD Deployments](https://youtu.be/17894DTru2Y)
 
 <a name="community" />
 
