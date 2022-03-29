@@ -51,7 +51,6 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
-* [Cello](https://github.com/cello-proj/cello) (formerly known as [Argo CloudOps](https://github.com/argoproj-labs/argo-cloudops)) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
 * [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow) is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community-maintained Helm charts for Argo projects.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
@@ -68,6 +67,7 @@ Other open source projects that use Argo:
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
 * [argocd-interlace](https://github.com/IBM/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
 * [argoflow](https://github.com/argoflow/argoflow) provides a fully declarative and GitOps approach to deploy and maintain your Kubeflow distribution with Argo CD.
+* [Cello](https://github.com/cello-proj/cello) (formerly known as [Argo CloudOps](https://github.com/argoproj-labs/argo-cloudops)) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
