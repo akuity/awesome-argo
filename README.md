@@ -242,6 +242,10 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Argo Project GitHub Organization](https://github.com/argoproj) ([Maintainers](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) and [Community Governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md))
 * [Argo at Conferences](https://docs.google.com/document/d/1VWiwmintCq7cdoZaW8D49JpEWbLJ6PrOWQNELRg1ALg/edit?usp=sharing)
 * ArgoCon ([2022](https://events.linuxfoundation.org/argocon/) and [2021](https://argoproj.github.io/argocon21/))
+* Argo Project User Survey Results ([2022](https://blog.argoproj.io/cncf-argo-project-2022-user-survey-results-f9caf46df7fd), [2021](https://github.com/argoproj/argoproj/blob/f4daa47706c73302faba1608cbc312bbafa0abfc/community/user_surveys/Argo%20CD%20and%20Rollouts%20User%20Survey%202021.pdf), and [2020](https://github.com/argoproj/argoproj/blob/f4daa47706c73302faba1608cbc312bbafa0abfc/community/user_surveys/ArgoWorkflows2020SurveySummary.pdf))
+
+Social media accounts:
+
 * [LinkedIn](https://www.linkedin.com/company/argoproj/)
 * [Slack](https://argoproj.github.io/community/join-slack)
 * [Twitter](https://twitter.com/argoproj) ([list of Argo Maintainers on Twitter](https://twitter.com/i/lists/1474577444288049155))
