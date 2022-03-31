@@ -101,6 +101,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Architecting Workflows For Reliability](https://blog.argoproj.io/architecting-workflows-for-reliability-d33bd720c6cc)
 * [Argo 101 - What is Argo?](https://blog.akuity.io/argo-101-what-is-argo-82d78e0205c)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
+* [Argo CD Best Practices](https://codefresh.io/argo-platform/argo-cd-best-practices/)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
 * [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
