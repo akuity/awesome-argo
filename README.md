@@ -143,7 +143,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://blog.akuity.io/unveil-the-secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argo-cd-7c5b4057ee49)
 * [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 * [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
-* [Argo Best Practices](https://datree.io/resources/argocd-best-practices-you-should-knoww)
+* [Argo Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
 
 Blogposts that provide comparisons:
 * ArgoCD
