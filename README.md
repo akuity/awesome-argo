@@ -48,6 +48,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) offers an opinionated way of installing Argo CD and managing GitOps repositories.
 * [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) enables extensions for Argo CD.
 * [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
+* [Argo CD Interlace](https://github.com/argoproj-labs/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
 * [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
@@ -65,8 +66,6 @@ Other open source projects that use Argo:
 
 * [active-monitor](https://github.com/keikoproj/active-monitor) is a Kubernetes controller which enables deep cluster monitoring and self-healing using Argo Workflows.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
-* [argocd-interlace](https://github.com/IBM/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
-* [argoflow](https://github.com/argoflow/argoflow) provides a fully declarative and GitOps approach to deploy and maintain your Kubeflow distribution with Argo CD.
 * [Cello](https://github.com/cello-proj/cello) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
@@ -102,6 +101,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Argo 101 - What is Argo?](https://blog.akuity.io/argo-101-what-is-argo-82d78e0205c)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo CD Best Practices](https://codefresh.io/argo-platform/argo-cd-best-practices/)
+* [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
 * [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
