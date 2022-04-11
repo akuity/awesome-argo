@@ -123,6 +123,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [GitOps – Including Backup in Your Continous Deployments](https://vzilla.co.uk/vzilla-blog/gitops-including-backup-in-your-continuous-deployments)
 * [GitOps Model for Provisioning and Bootstrapping Amazon EKS Clusters Using Crossplane and Argo CD](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
 * [GitOps Toolsets on Kubernetes with CircleCI and Argo CD](https://www.digitalocean.com/community/tutorials/webinar-series-gitops-tool-sets-on-kubernetes-with-circleci-and-argo-cd)
+* [GitOps with Argo CD](https://www.giantswarm.io/blog/gitops-with-argocd-giant-swarm)
 * [Gradual Code Releases Using an In-House Kubernetes Canary Controller on Top of Argo Rollouts](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)
 * [Hera - the Missing Argo Workflows Python SDK](https://www.dynotx.com/hera-the-missing-argo-workflows-python-sdk/)
 * [How GitOps and Operators Mark the Rise of Infrastructure-As-Software](https://paytmlabs.com/blog/2021/10/how-to-improve-operational-work-with-operators-and-gitops/)
