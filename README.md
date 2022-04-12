@@ -129,6 +129,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [How GitOps and Operators Mark the Rise of Infrastructure-As-Software](https://paytmlabs.com/blog/2021/10/how-to-improve-operational-work-with-operators-and-gitops/)
 * [How to Automate Verification of Deployments with Argo Rollouts and Elastic Observability](https://www.elastic.co/blog/automate-verification-of-deployments-with-argo-rollouts-and-elastic-observability)
 * [How to Deploy With ArgoCD When Helm Values and Chart Are in Different Repositories](https://mixi-developers.mixi.co.jp/argocd-with-helm-fee954d1003c)
+* [How to Install Argo Workflows on AWS, GCP, and Azure](https://pipekit.io/blog/install-argo-workflows-on-aws-gcp-azure)
 * [Jenkins X 3 and Argo CD](https://jenkins-x.io/blog/2021/06/28/argo/)
 * [Kubernetes Cluster Vending Machine With vcluster](https://blog.ediri.io/kubernetes-cluster-vending-machine-with-vcluster)
 * [Kubernetes Security through GitOps Best Practices: ArgoCD and Starboard](https://anaisurl.com/gitops-argocd-starboard/)
