@@ -148,6 +148,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://blog.akuity.io/unveil-the-secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argo-cd-7c5b4057ee49)
 * [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 * [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
+* [Preventing Tag Mutation With kbld And Argo CD](https://blog.argoproj.io/preventing-tag-mutation-with-kbld-and-argo-cd-19cecd65963)
 
 Blogposts that provide comparisons:
 * ArgoCD
@@ -239,6 +240,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Unveil The Secret Ingredients for Argo CD in the Enterprise-Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021)
 * [Using Argo CD with vclusters](https://www.youtube.com/watch?v=M3ycfeocvNo)
 * [Using Argo CD & Datree for Stable Kubernetes CI/CD Deployments](https://youtu.be/17894DTru2Y)
+* [Preventing Tag Mutation With kbld And Argo CD](https://www.youtube.com/watch?v=KkgHYdVfXwY)
 
 <a name="community" />
 
