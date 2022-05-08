@@ -257,7 +257,7 @@ Social media accounts:
 
 * [LinkedIn](https://www.linkedin.com/company/argoproj/)
 * [Slack](https://argoproj.github.io/community/join-slack)
-* [Twitter](https://twitter.com/argoproj) ([list of Argo Maintainers on Twitter](https://twitter.com/i/lists/1474577444288049155))
+* [Twitter](https://twitter.com/argoproj)
 * [Reddit](https://www.reddit.com/r/argoproj/)
 
 
