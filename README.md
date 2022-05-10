@@ -73,6 +73,7 @@ Other open source projects that use Argo:
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Metaflow](https://github.com/Netflix/metaflow) is a Python library for building and managing real-life data science projects.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
+* [Orchest](https://github.com/orchest/orchest) a tool for building data pipelines/worfklows. Support for Jupyter notebooks, scripts in multiple languages: Python, R, Julia, JavaScript, Bash and more. Includes a user friendly UI/browser based editor.
 * [Orkestra](https://github.com/Azure/orkestra) is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent Helm charts and their dependencies.
 * [Ploomber](https://github.com/ploomber/ploomber) helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
 * [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for Argo CD.
