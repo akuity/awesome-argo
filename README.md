@@ -194,6 +194,7 @@ Other talks:
 * [Argo CD and Stateful Applications - Tips and Tricks](https://youtu.be/_-oVaO4SxLk)
 * [Argo CD Production Best Practices](https://youtu.be/ESQLqjbM8h0)
 * [Argo CD Walkthrough – Learn Argo CD in 18 Minutes](https://youtu.be/2B3qcyCcBXs)
+* [Argo CD in the Cloud: DevOps and Docker Live Show](https://youtu.be/DxJawE0uZgw?t=366)
 * [Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 * [Argo Events Deep-dive](https://youtu.be/U4tCYcCK20w)
 * [Argo Rollouts - Canary Deployments Made Easy In Kubernetes](https://youtu.be/84Ky0aPbHvY)
