@@ -171,6 +171,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 🔥 KubeCon Europe 2022 talks:
 * [Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
 * [Building AutoML Pipelines With Argo Workflows and Katib](https://youtu.be/d8o7fEd8l2g)
+* [Exploring HashiCorp Vault and ArgoCD - the GitOps Way](https://youtu.be/2camnnjyviw)
 * [Intuitive Progressive Delivery Across Microservices in a Dependency Graph Using Argo Rollouts](https://youtu.be/02y5q4Cc2Fs)
 * [Implementing Preview Environments with GitOps in Kubernetes](https://youtu.be/QNAiIJRIVWA)
 * [Infra-like-apps - GitOpsifying Cloud Natively Managed Infrastructure with Crossplane and Argo CD](https://youtu.be/epoTCI4pqdE)
