@@ -2,6 +2,8 @@
 
 # Awesome Argo
 
+🔥 [KubeCon Europe 2022 talks](#videos) are available now! ([follow updates](https://twitter.com/TerryTangYuan))
+
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
 ![Argo Image](images/argo.png)
