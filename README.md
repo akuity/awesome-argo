@@ -178,10 +178,10 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Intuitive Progressive Delivery Across Microservices in a Dependency Graph Using Argo Rollouts](https://youtu.be/02y5q4Cc2Fs)
 * [Implementing Preview Environments with GitOps in Kubernetes](https://youtu.be/QNAiIJRIVWA)
 * [Infra-like-apps - GitOpsifying Cloud Natively Managed Infrastructure with Crossplane and Argo CD](https://youtu.be/epoTCI4pqdE)
-* Argo’s Vibrant Ecosystem and Community
+* [Argo’s Vibrant Ecosystem and Community](https://youtu.be/9tYkxlhXdw4)
 * Automated Progressive Delivery Using GitOps and Service Mesh
 * How a Couple of Characters (and GitOps) Brought Down Our Site
-* TikTok’s Story: How To Manage a Thousand Applications on Edge With Argo CD
+* [TikTok’s Story: How To Manage a Thousand Applications on Edge With Argo CD](https://youtu.be/Ftz5_lIepNA)
 
 Other talks:
 
