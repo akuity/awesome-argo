@@ -173,15 +173,15 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 
 🔥 KubeCon Europe 2022 talks:
 * [Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
+* [Argo’s Vibrant Ecosystem and Community](https://youtu.be/9tYkxlhXdw4)
+* [Automated Progressive Delivery Using GitOps and Service Mesh](https://youtu.be/5Ko-CnP2qhA)
 * [Building AutoML Pipelines With Argo Workflows and Katib](https://youtu.be/d8o7fEd8l2g)
 * [Exploring HashiCorp Vault and ArgoCD - the GitOps Way](https://youtu.be/2camnnjyviw)
+* [GitOpsify Everything: When Crossplane Meets Argo CD](https://youtu.be/9odjdVqJkws)
+* [How a Couple of Characters (and GitOps) Brought Down Our Site](https://youtu.be/FiEm2zOuHsg)
 * [Intuitive Progressive Delivery Across Microservices in a Dependency Graph Using Argo Rollouts](https://youtu.be/02y5q4Cc2Fs)
 * [Implementing Preview Environments with GitOps in Kubernetes](https://youtu.be/QNAiIJRIVWA)
 * [Infra-like-apps - GitOpsifying Cloud Natively Managed Infrastructure with Crossplane and Argo CD](https://youtu.be/epoTCI4pqdE)
-* [Argo’s Vibrant Ecosystem and Community](https://youtu.be/9tYkxlhXdw4)
-* [Automated Progressive Delivery Using GitOps and Service Mesh](https://youtu.be/5Ko-CnP2qhA)
-* [How a Couple of Characters (and GitOps) Brought Down Our Site]()
-* [GitOpsify Everything: When Crossplane Meets Argo CD](https://youtu.be/9odjdVqJkws)
 * [TikTok’s Story: How To Manage a Thousand Applications on Edge With Argo CD](https://youtu.be/Ftz5_lIepNA)
 
 Other talks:
