@@ -2,8 +2,9 @@
 
 # Awesome Argo
 
-**NEWS**:
-* 🔥 [KubeCon Europe 2022 talks](#videos) are available now! ([follow updates](https://twitter.com/TerryTangYuan))
+🔥 **NEWS**: ([follow updates](https://twitter.com/TerryTangYuan))
+* ArgoCon 2022 is happening on Sep 19. [Register now!](https://events.linuxfoundation.org/argocon/)
+* [KubeCon Europe 2022 talks](#videos) are available now! 
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
