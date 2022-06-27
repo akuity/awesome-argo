@@ -4,7 +4,7 @@
 
 🔥 **NEWS**: ([follow updates](https://twitter.com/TerryTangYuan))
 * [KubeCon North America 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) is on Oct 24th. See you there!
-* ArgoCon 2022 is happening on Sep 19th. [Register now!](https://events.linuxfoundation.org/argocon/)
+* [ArgoCon 2022](https://events.linuxfoundation.org/argocon/) is happening on Sep 19th. Register now!
 * [KubeCon Europe 2022 talks](#videos) are available now! 
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
