@@ -262,6 +262,7 @@ Other talks:
 * [TGI Kubernetes with Joe Beda: Argo Workflow System](https://www.youtube.com/watch?v=M_rxPPLG8pU&start=859)
 * [TGI Kubernetes with Joe Beda: CloudEvents and Argo Events](https://www.youtube.com/watch?v=LQbBgQnUs_k&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=2&t=0s)
 * [The Argo Ecosystem: Tailoring Your Installation Through Community Add-ons](https://youtu.be/EPtiDNXpS78)
+* [The Future of Continuous Delivery](https://youtu.be/dl1vqNpT_DE)
 * [The Journey from DevOps to GitOps](https://youtu.be/2kokbYtslbw)
 * [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021)
 * [Tutorial: Everything You Need To Become A GitOps Ninja](https://www.youtube.com/watch?v=r50tRQjisxw)
