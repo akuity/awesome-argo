@@ -3,7 +3,7 @@
 # Awesome Argo
 
 🔥 **NEWS**: ([follow updates](https://twitter.com/TerryTangYuan))
-* Check out the upcoming conferences and hope to see you there!
+* Check out the upcoming conferences and hope to see you there! We will add the links to recordings as soon as they are ready!
   * [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/) on Oct 25th
   * [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) on Oct 24th
   * [ArgoCon](https://events.linuxfoundation.org/argocon/) on Sep 19th
@@ -153,6 +153,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Manage Namespaces on Multitenant Clusters with ArgoCD, Kustomize and Helm](https://developers.redhat.com/articles/2022/04/13/manage-namespaces-multitenant-clusters-argo-cd-kustomize-and-helm)
 * [Measuring Argo Workflow Costs with Kubecost](https://blog.kubecost.com/blog/measuring-argo-workflows-with-kubecost/)
 * [Minimize Failed Deployments with Argo Rollouts and Smoke Tests](https://codefresh.io/continuous-deployment/minimize-failed-deployments-argo-rollouts-smoke-tests/)
+* [Observations and Thoughts after Building 3 Kubernetes Platforms in Financial Services Industry](https://itnext.io/observations-and-thoughts-after-building-3-kubernetes-platforms-in-financial-services-industry-7d6c60206717)
 * [Open Source Model Management Roundup: Polyaxon, Argo, and Seldon](https://www.anaconda.com/blog/developer-blog/open-source-model-management-roundup-polyaxon-argo-and-seldon/)
 * [Producing 200 OpenStreetMap Extracts in 35 Minutes Using a Scalable Data Workflow](https://www.interline.io/blog/scaling-openstreetmap-data-workflows/)
 * [Progressive Delivery with Argo Rollouts: Canary Deployment](https://www.infracloud.io/blogs/progressive-delivery-argo-rollouts-canary-deployment/)
@@ -184,6 +185,11 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
+Recordings coming soon for:
+* GitOpsCon North America 2022
+* KubeCon North America 2022
+* ArgoCon 2022
+ 
 🔥 KubeCon Europe 2022 talks:
 * [Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
 * [Argo’s Vibrant Ecosystem and Community](https://youtu.be/9tYkxlhXdw4)
