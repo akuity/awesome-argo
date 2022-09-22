@@ -3,11 +3,10 @@
 # Awesome Argo
 
 🔥 **NEWS**: ([follow updates](https://twitter.com/TerryTangYuan))
+* [ArgoCon 2022 talks](#videos) are available now! 
 * Check out the upcoming conferences and hope to see you there! We will add the links to recordings as soon as they are ready!
   * [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/) on Oct 25th
   * [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) on Oct 24th
-  * [ArgoCon](https://events.linuxfoundation.org/argocon/) on Sep 19th
-* [KubeCon Europe 2022 talks](#videos) are available now! 
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
@@ -190,9 +189,38 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 Recordings coming soon for:
 * GitOpsCon North America 2022
 * KubeCon North America 2022
-* ArgoCon 2022
+
+🔥 ArgoCon 2022 talks:
+* [Argo Roadmap Updates For CD, Rollouts, Workflows, and Events](https://youtu.be/b07iZCR2ktQ)
+* [From Code to Docs to Marketing: How to Contribute](https://youtu.be/kQZhdJn1Phw)
+* [Scaling Argo for the Enterprise](https://youtu.be/kIcuMCargiE)
+* [Challenging the Status Quo with Kubernetes and Argo](https://youtu.be/bRZmR1NrjFg)
+* [Smarter Progressive Delivery at Intuit](https://youtu.be/2P8_LWL3-MQ)
+* [Argo Rollouts at Scale: How We Brought Automated Rollback to 2100+ Micro-services at Monzo](https://youtu.be/Vl5siKnYymY)
+* [Large Scale Batch Processing with Argo Workflows and Events](https://youtu.be/J5XDDxcgP8E)
+* [Leveraging Argo Workflows and Argo Events for Cloud Agnostic Enterprise Machine Learning Deployments and Model Management](https://youtu.be/_Jbaecr_ZvI)
+* [Unleash ArgoCD Observability Superpowers](https://youtu.be/zNGg87RME7I)
+* [Secure by Default with GitOps - A Guide to OPA with Argo CD](https://youtu.be/EXu0rx0mtrM)
+* [Managing Thousands of Automatic Machine Learning Experiments with Argo and Katib](https://youtu.be/0jBNXZjQ01I)
+* [Using Argo Project to Help Elastic infoSec Team in Securing Elastic](https://youtu.be/B8a3ySHvfF0)
+* [From PR to Artifactory in 60 Secs! Adobe Service Runtime Java Libraries Release Pipelines Using Argo Workflows](https://youtu.be/JD3dRElwXMM)
+* [Argo CD Observability with AIOps - Detect Incident Fast](https://youtu.be/_pRJ0_yzxNs)
+* [Attacking Argo CD with Argo CD (and then Defending)](https://youtu.be/bRNMI29F2fI)
+* [Securing GitOps Supply Chain with Sigstore and Kyverno](https://youtu.be/gBJ169_il6k)
+* [Harder, Better, Faster, Stronger Pipelines at Adobe](https://youtu.be/AD3isYT6M1c)
+* [A Distributed Job Scheduler Story: CronWorkflows integration with RBAC infrastructure for Over 100+ Teams](https://youtu.be/LXM3W4OiTpY)
+* [Automating Map-building Pipelines for Safe Autonomous Driving with Argo Workflows at TuSimple](https://youtu.be/8aJGZEtMB6A)
+* [Best Practices on Organizing GitOps Repositories](https://youtu.be/CvMevMHExHk)
+* [Don’t Let a Bot In! Protect Fortune 500 Companies & Users](https://youtu.be/zZtnHkd3IS4)
+* [Using Argo Workflows to Curate Chaos Engineering with LitmusChaos](https://youtu.be/fsGIbfd-O64)
+* [Creating A Scalable Foundation for Kubernetes Multi-Tenancy](https://youtu.be/MSXZNMtcQP4)
+* [CI/CD for Data Pipelines with Argo Workflows](https://youtu.be/729GwVMgeXw)
+* [Running Cloud-native Spark Jobs with Argo Workflows](https://youtu.be/X3xMtFs5XWo)
+* [Open Source Canary Deployments with Application Metric Analysis](https://youtu.be/OHU7dGcRZvg)
+* [The Future of GitOps](https://youtu.be/r0yVUkTyWwI)
+* [Adobe’s Internal Developer Platform Journey and Lessons](https://youtu.be/NJF6bBU6Duw)
  
-🔥 KubeCon Europe 2022 talks:
+KubeCon Europe 2022 talks:
 * [Applied GitOps with Argo CD Autopilot Using Multiple Clusters with an ApplicationSet](https://youtu.be/r3k2qI2NDsA)
 * [Argo’s Vibrant Ecosystem and Community](https://youtu.be/9tYkxlhXdw4)
 * [Automated Progressive Delivery Using GitOps and Service Mesh](https://youtu.be/5Ko-CnP2qhA)
