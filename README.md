@@ -55,7 +55,6 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
-* [Argo Dataflow](https://github.com/argoproj-labs/argo-dataflow) is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community-maintained Helm charts for Argo projects.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
 * [Argo Workflows Catalog](https://github.com/argoproj-labs/argo-workflows-catalog) contains free reusable templates for Argo Workflows.
