@@ -2,11 +2,7 @@
 
 # Awesome Argo
 
-🔥 **NEWS**: ([follow updates](https://twitter.com/TerryTangYuan))
-* [ArgoCon 2022 talks](#videos) are available now! 
-* Check out the upcoming conferences and hope to see you there! We will add the links to recordings as soon as they are ready!
-  * [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/) on Oct 25th
-  * [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) on Oct 24th
+:bell: Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available! Make sure to [follow updates](https://twitter.com/TerryTangYuan)!
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosted project.
 
