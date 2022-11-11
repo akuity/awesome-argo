@@ -239,6 +239,7 @@ Other talks:
 * [How Scalable is Argo-Rollouts: A Cloud Operator’s Perspective](https://youtu.be/rCEhxJ2NSTI)
 * [How to Apply GitOps to Everything - Combining Argo CD and Crossplane](https://youtu.be/yrj4lmScKHQ)
 * [Integrating Backup into Your GitOps CI/CD Pipeline](https://youtu.be/2mjlmjJ4NjQ)
+* [Intro to GitOps, Argo projects and Continuous delivery with Kubernetes | Ep 62](https://youtu.be/Ygmf3oauToE)
 * [Introducing Couler: Unified Interface for Constructing and Managing Workflows](https://github.com/terrytangyuan/public-talks/tree/main/talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting)
 * [Introduction to Argo CD: Kubernetes DevOps CI/CD](https://www.youtube.com/watch?v=2WSJF7d8dUg&feature=youtu.be)
 * [Journey of the Argonauts](https://youtu.be/boqZFQRLc9s)
