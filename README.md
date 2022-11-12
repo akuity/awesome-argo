@@ -185,9 +185,20 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-Recordings coming soon for:
-* GitOpsCon North America 2022
-* KubeCon North America 2022
+🔥 KubeCon North America 2022:
+* [Keynote: Welcome + Opening Remarks (Maintainers Fireside Chat)](https://youtu.be/DWFzChxXXrU?t=469)
+* [How To Build Production Grade DevOps Platform Using Argo](https://youtu.be/ohPKiGhhHoI)
+* [Like Peas And Carrots: Argo CD And Crossplane For Infrastructure Management](https://youtu.be/QO_-PG9snvI)
+* [Multi-Tenancy For Argo Workflows And Argo CD At Adobe](https://youtu.be/aTgINAFV3T8)
+* [Observability In ArgoCD/Rollouts Using Streaming ML For Reducing MTTR](https://youtu.be/-YGS1hmd60E)
+* [How the Argo Project Transitioned From Security Aware To Security First](https://youtu.be/EilOEF4gs0c)
+* [How Adobe Planned For Scale With Argo CD, Cluster API, And VCluster](https://youtu.be/p8BluR5WT5w)
+* [How Salesforce Is Moving From Spinnaker To Argo Workflows For Provisioning Add-Ons](https://youtu.be/THJFffu-iK0)
+
+🔥 GitOpsCon North America 2022
+* [How to Keep a Secret in GitOps, Without Keeping It in Git](https://youtu.be/PTdwW-wG2uA)
+* [Hundreds of Clusters Sitting in a Tree with Argo CD](https://youtu.be/casLvZWlIDw)
+* [Preview Environments with ArgoCD](https://youtu.be/7ahiwZuiCBM)
 
 🔥 ArgoCon 2022 talks:
 * [Argo Roadmap Updates For CD, Rollouts, Workflows, and Events](https://youtu.be/b07iZCR2ktQ)
