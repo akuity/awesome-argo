@@ -195,6 +195,9 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [How the Argo Project Transitioned From Security Aware To Security First](https://youtu.be/EilOEF4gs0c)
 * [How Adobe Planned For Scale With Argo CD, Cluster API, And VCluster](https://youtu.be/p8BluR5WT5w)
 * [How Salesforce Is Moving From Spinnaker To Argo Workflows For Provisioning Add-Ons](https://youtu.be/THJFffu-iK0)
+* [Human-Friendly, Production-Ready Data Science Stack With Argo Workflows & Metaflow](https://www.youtube.com/watch?v=bLg5oHIjOpI)
+* [Building Data Science Platform with Argo Workflows](https://www.youtube.com/watch?v=rLPuTL60T4c)
+* [Building a Batch Processing Platform with Argo](https://www.youtube.com/watch?v=JQr16laspSs)
 
 🔥 GitOpsCon North America 2022
 * [How to Keep a Secret in GitOps, Without Keeping It in Git](https://youtu.be/PTdwW-wG2uA)
