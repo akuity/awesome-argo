@@ -111,6 +111,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
+* [Argo Rollouts and Service Mesh: Automate and Control Canary Releases](https://blog.flomesh.io/argo-rollouts-and-service-mesh-automate-and-control-canary-releases-c71e5403eb2)
 * [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
 * [Argo Workflow As the Choice To Run Data Pipelines in Casavo](https://medium.com/casavo/argo-workflow-in-casavo-722b40362e4c)
 * [Automate Canary Analysis on Kubernetes with Argo](https://blog.px.dev/argo-rollouts/)
