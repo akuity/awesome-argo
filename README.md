@@ -336,7 +336,7 @@ Other talks:
 * [Argo Project GitHub Organization](https://github.com/argoproj) ([Maintainers](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) and [Community Governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md))
 * ArgoCon ([2022](https://events.linuxfoundation.org/argocon/) and [2021](https://argoproj.github.io/argocon21/))
 * Argo Project User Survey Results ([2022](https://blog.argoproj.io/cncf-argo-project-2022-user-survey-results-f9caf46df7fd), [2021](https://github.com/argoproj/argoproj/blob/f4daa47706c73302faba1608cbc312bbafa0abfc/community/user_surveys/Argo%20CD%20and%20Rollouts%20User%20Survey%202021.pdf), and [2020](https://github.com/argoproj/argoproj/blob/f4daa47706c73302faba1608cbc312bbafa0abfc/community/user_surveys/ArgoWorkflows2020SurveySummary.pdf))
-* [Akuity Peer Appreciation Program for Argo](https://akuity.io/argo-appreciation/) - The community can nominate individuals who they see as going above and beyond when it comes to contributing to and/or promoting the Argo Project.
+* [Peer Appreciation Program for Argo](https://akuity.io/argo-appreciation/) - The community can nominate individuals who they see as going above and beyond when it comes to contributing to and/or promoting the Argo Project.
 
 Social media accounts:
 
