@@ -111,6 +111,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
+* [Argo Rollouts and Service Mesh: Automate and Control Canary Releases](https://blog.flomesh.io/argo-rollouts-and-service-mesh-automate-and-control-canary-releases-c71e5403eb2)
 * [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
 * [Argo Workflow As the Choice To Run Data Pipelines in Casavo](https://medium.com/casavo/argo-workflow-in-casavo-722b40362e4c)
 * [Automate Canary Analysis on Kubernetes with Argo](https://blog.px.dev/argo-rollouts/)
@@ -185,9 +186,21 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-Recordings coming soon for:
-* GitOpsCon North America 2022
-* KubeCon North America 2022
+🔥 KubeCon, GitOpsCon, AI Days North America 2022:
+* [Building a Batch Processing Platform with Argo](https://www.youtube.com/watch?v=JQr16laspSs)
+* [Building Data Science Platform with Argo Workflows](https://www.youtube.com/watch?v=rLPuTL60T4c)
+* [How Adobe Planned For Scale With Argo CD, Cluster API, And VCluster](https://youtu.be/p8BluR5WT5w)
+* [How Salesforce Is Moving From Spinnaker To Argo Workflows For Provisioning Add-Ons](https://youtu.be/THJFffu-iK0)
+* [How the Argo Project Transitioned From Security Aware To Security First](https://youtu.be/EilOEF4gs0c)
+* [How To Build Production Grade DevOps Platform Using Argo](https://youtu.be/ohPKiGhhHoI)
+* [How to Keep a Secret in GitOps, Without Keeping It in Git](https://youtu.be/PTdwW-wG2uA)
+* [Human-Friendly, Production-Ready Data Science Stack With Argo Workflows & Metaflow](https://www.youtube.com/watch?v=bLg5oHIjOpI)
+* [Hundreds of Clusters Sitting in a Tree with Argo CD](https://youtu.be/casLvZWlIDw)
+* [Keynote: Welcome + Opening Remarks (Maintainers Fireside Chat)](https://youtu.be/DWFzChxXXrU?t=469)
+* [Like Peas And Carrots: Argo CD And Crossplane For Infrastructure Management](https://youtu.be/QO_-PG9snvI)
+* [Multi-Tenancy For Argo Workflows And Argo CD At Adobe](https://youtu.be/aTgINAFV3T8)
+* [Observability In ArgoCD/Rollouts Using Streaming ML For Reducing MTTR](https://youtu.be/-YGS1hmd60E)
+* [Preview Environments with ArgoCD](https://youtu.be/7ahiwZuiCBM)
 
 🔥 ArgoCon 2022 talks:
 * [Argo Roadmap Updates For CD, Rollouts, Workflows, and Events](https://youtu.be/b07iZCR2ktQ)
