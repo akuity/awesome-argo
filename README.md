@@ -171,7 +171,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 * [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
 * [Preventing Tag Mutation With kbld And Argo CD](https://blog.argoproj.io/preventing-tag-mutation-with-kbld-and-argo-cd-19cecd65963)
-* [Argo workflows Guide in Chinese](https://github.com/LinuxSuRen/argo-workflows-guide)
+* [Argo Workflows Guide in Chinese](https://github.com/LinuxSuRen/argo-workflows-guide)
 
 Blogposts that provide comparisons:
 * ArgoCD
