@@ -2,9 +2,9 @@
 
 # Awesome Argo
 
-:tada: [Argo is now a graduated project in CNCF!](https://www.cncf.io/announcements/2022/12/06/the-cloud-native-computing-foundation-announces-argo-has-graduated/)
+🎉 [Argo is now a graduated project in CNCF!](https://www.cncf.io/announcements/2022/12/06/the-cloud-native-computing-foundation-announces-argo-has-graduated/)
 
-:bell: Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available! Make sure to [follow updates](https://twitter.com/TerryTangYuan)!
+🔔 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available! Make sure to [follow updates](https://twitter.com/TerryTangYuan)!
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) graduated project.
 
