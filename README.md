@@ -142,6 +142,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [How GitOps and Operators Mark the Rise of Infrastructure-As-Software](https://paytmlabs.com/blog/2021/10/how-to-improve-operational-work-with-operators-and-gitops/)
 * [How Many Do You Need? - Argo CD Architectures Explained](https://akuity.io/blog/argo-cd-architectures-explained/)
 * [How to Automate Verification of Deployments with Argo Rollouts and Elastic Observability](https://www.elastic.co/blog/automate-verification-of-deployments-with-argo-rollouts-and-elastic-observability)
+* [How to Create a Theme for your Argo CD With Minimal CSS](https://akuity.io/blog/how-to-create-a-theme-for-your-argocd-with-minimal-css/)
 * [How to Deploy With ArgoCD When Helm Values and Chart Are in Different Repositories](https://mixi-developers.mixi.co.jp/argocd-with-helm-fee954d1003c)
 * [How to Manage Kubernetes Secrets with GitOps?](https://akuity.io/blog/how-to-manage-kubernetes-secrets-gitops/)
 * [How to Update your OpenFaaS Functions Automatically with the Argo CD Image Updater](https://www.openfaas.com/blog/argocd-image-updater-for-functions/)
