@@ -60,7 +60,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [GitOps Engine](https://github.com/argoproj/gitops-engine) contains various GitOps operators that address different use-cases and provide different user experiences but all have a similar set of core features.
 * [Hera](https://github.com/argoproj-labs/hera-workflows) is an Argo Workflows Python SDK that aims to make workflow construction and submission easy and accessible to everyone.
 * [Notifications Engine](https://github.com/argoproj/notifications-engine) is a configuration-driven Golang library that provides notifications for cloud-native applications.
-
+* [Argo Workflows Build Status Plugin](https://github.com/LinuxSuRen/gogit) is an executor plugin to send build status of pull request to Git provider.
 
 Other open source projects that use Argo:
 
