@@ -177,7 +177,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
 * [Preventing Tag Mutation With kbld And Argo CD](https://blog.argoproj.io/preventing-tag-mutation-with-kbld-and-argo-cd-19cecd65963)
 * [Argo Workflows Guide in Chinese](https://github.com/LinuxSuRen/argo-workflows-guide)
-* [How to create ArgoCD Applications Automatically using ApplicationSet? “Automation of GitOps”](https://amralaayassen.medium.com/how-to-create-argocd-applications-automatically-using-applicationset-automation-of-the-gitops-59455eaf4f72)
+* [How To Create ArgoCD Applications Automatically Using ApplicationSet? “Automation of GitOps”](https://amralaayassen.medium.com/how-to-create-argocd-applications-automatically-using-applicationset-automation-of-the-gitops-59455eaf4f72)
 
 Blogposts that provide comparisons:
 * ArgoCD
