@@ -45,12 +45,10 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 Selected projects from [argoproj](https://github.com/argoproj) (other than the four projects mentioned above) and [argoproj-labs](https://github.com/argoproj-labs):
 
-* [Argo CD ApplicationSet](https://github.com/argoproj/applicationset) manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service.
 * [Argo CD Autopilot](https://github.com/argoproj-labs/argocd-autopilot) offers an opinionated way of installing Argo CD and managing GitOps repositories.
 * [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) enables extensions for Argo CD.
 * [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
 * [Argo CD Interlace](https://github.com/argoproj-labs/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
-* [Argo CD Notifications](https://github.com/argoproj-labs/argocd-notifications) continuously monitors Argo CD applications and provides a flexible way to notify users about important changes in the applications state.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community-maintained Helm charts for Argo projects.
