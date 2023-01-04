@@ -111,6 +111,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
 * [Argo CD Best Practices](https://codefresh.io/argo-platform/argo-cd-best-practices/)
 * [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
+* [Argo CD Build Environment Examples](https://akuity.io/blog/argo-cd-build-environment-examples/)
 * [ArgoCon 2021 Akuity Team Recap](https://blog.akuity.io/argocon-2021-akuity-team-recap-3ba0fc782025)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
 * [Argo Rollouts and Service Mesh: Automate and Control Canary Releases](https://blog.flomesh.io/argo-rollouts-and-service-mesh-automate-and-control-canary-releases-c71e5403eb2)
