@@ -364,6 +364,6 @@ Some of the blogposts and videos are selected from [Argo's community blogs and p
 
 Thanks to the contributors who've submitted pull requests to add the original references to the following locations:
 * [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations)
-* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#community-blogs-and-presentations)
-* [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#community-blogs-and-presentations)
+* [Argo CD](https://github.com/argoproj/argo-cd/blob/master/README.md#blogs-and-presentations)
+* [Argo Events](https://github.com/argoproj/argo-events/blob/master/README.md#blogs-and-presentations)
 * [Argo Rollouts](https://github.com/argoproj/argo-rollouts/blob/master/README.md#community-blogs-and-presentations)
