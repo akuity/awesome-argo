@@ -165,6 +165,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Progressive Delivery with Argo Rollouts: Canary Deployment](https://www.infracloud.io/blogs/progressive-delivery-argo-rollouts-canary-deployment/)
 * [Recover Automatically from Failed Deployments with Argo Rollouts and Prometheus Metrics](https://codefresh.io/continuous-deployment/recover-automatically-from-failed-deployments/)
 * [Running Argo Workflows Across Multiple Kubernetes Clusters](https://admiralty.io/blog/running-argo-workflows-across-multiple-kubernetes-clusters/)
+* [Scheduling Data Science Workflows in Azure with Argo and Metaflow](https://softlandia.fi/en/blog/scheduling-data-science-workflows-in-azure-with-argo-and-metaflow)
 * [Sealed Secrets on Kubernetes with ArgoCD and Terraform](https://piotrminkowski.com/2022/12/14/sealed-secrets-on-kubernetes-with-argocd-and-terraform/)
 * [Set up Microservices on Kubernetes — Automating Kubernetes with ArgoCD](https://medium.com/@hmquan08011996/setup-microservices-on-kubernetes-automating-kubernetes-with-argocd-cb94622dac5b)
 * [Setting up Argo CD With Helm](https://www.arthurkoziel.com/setting-up-argocd-with-helm/)
