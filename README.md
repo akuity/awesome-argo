@@ -297,6 +297,7 @@ Other talks:
 * [Extending GitOps to Manage K8s (so you don’t have to)!](https://youtu.be/bTHkDdXRx24)
 * [Getting Started with ArgoCD for GitOps Deployments](https://youtu.be/AvLuplh1skA)
 * [GitOps Cloud Resource Management](https://youtu.be/TJQHB8XVW44)
+* [GitOps for Kubernetes with ArgoCD, Crossplane, Kyverno and Paralus](https://www.youtube.com/live/JBG3B5WiYcA?feature=share)
 * [GitOps Guide to the Galaxy: Argo Workflows](https://www.youtube.com/watch?v=2lI41q8Z7ko)
 * [GitOps with Argo CD and an Argo Rollouts Canary Release](https://www.youtube.com/watch?v=35Qimb_AZ8U)
 * [GitOps Without Pipelines With ArgoCD Image Updater](https://youtu.be/avPUQin9kzU)
