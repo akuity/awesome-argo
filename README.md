@@ -274,6 +274,7 @@ Other talks:
 * [Argo CD in the Cloud: DevOps and Docker Live Show](https://youtu.be/DxJawE0uZgw?t=366)
 * [Argo Events - Event-Based Dependency Manager for Kubernetes](https://youtu.be/sUPkGChvD54)
 * [Argo Events Deep-dive](https://youtu.be/U4tCYcCK20w)
+* [Argo Graduation Q&A - Open Meeting with the Creators of Argo](https://youtu.be/kjB_7MaDzcw)
 * [Argo Rollouts - Canary Deployments Made Easy In Kubernetes](https://youtu.be/84Ky0aPbHvY)
 * [Argo Workflows and Pipelines - CI/CD, Machine Learning, and Other Kubernetes Workflows](https://youtu.be/UMaivwrAyTA)
 * [Automating Research Workflows at BlackRock](https://www.youtube.com/watch?v=ZK510prml8o)
