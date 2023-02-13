@@ -129,6 +129,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Deploying Argo CD and Sealed Secrets with Helm](https://faun.pub/deploying-argo-cd-and-sealed-secrets-with-helm-8de12f53051b)
 * [Designing A Complete CI/CD Pipeline CI/CD Pipeline Using Argo Events, Workflows, and CD](https://www.slideshare.net/JulianMazzitelli/designing-a-complete-ci-cd-pipeline-using-argo-events-workflow-and-cd-products-228452500)
 * [Embracing Cloud-Native for Apache DolphinScheduler with Kubernetes: a Case Study](https://www.infoq.com/articles/cloud-native-apache-dolphinscheduler/)
+* [Enforcing Kubernetes Best Practices Using Kyverno and Argo CD](https://akuity.io/blog/argo-cd-kyverno-best-practice-policies)
 * [Exploring Messaging Systems with Argo Events](https://dfarr.medium.com/exploring-messaging-systems-with-argo-events-a259f663bd30)
 * [Four Lessons That Took Argo From First Commit to GitOps Darling](https://www.cncf.io/blog/2022/09/21/four-lessons-that-took-argo-from-first-commit-to-gitops-darling)
 * [From Argo to Mentoring and Everything In Between](https://www.cncf.io/humans-of-cloud-native/yuan-tang-from-argo-to-mentoring-and-everything-in-between/)
