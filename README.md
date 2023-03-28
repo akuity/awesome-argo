@@ -2,7 +2,7 @@
 
 # Awesome Argo
 
-🎉 [Argo is now a graduated project in CNCF!](https://www.cncf.io/announcements/2022/12/06/the-cloud-native-computing-foundation-announces-argo-has-graduated/)
+🎉 [ArgoCon comes to Europe as a KubeCon 2023 co-located event!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
 
 🔔 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
