@@ -186,6 +186,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [How To Create ArgoCD Applications Automatically Using ApplicationSet? “Automation of GitOps”](https://amralaayassen.medium.com/how-to-create-argocd-applications-automatically-using-applicationset-automation-of-the-gitops-59455eaf4f72)
 * [Why We’re Switching Off Airflow — Sort Of](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660)
 * [Picking A Kubernetes Orchestrator: Airflow, Argo, and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
+* [What Is ArgoCD? A Practical Tutorial With Kubernetes](https://spacelift.io/blog/argocd)
 
 Blogposts that provide comparisons:
 * ArgoCD
