@@ -112,6 +112,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Architecting Workflows For Reliability](https://blog.argoproj.io/architecting-workflows-for-reliability-d33bd720c6cc)
 * [Argo 101 - What is Argo?](https://akuity.io/blog/argo-101-what-is-argo/)
 * [Argo Ansible Role: Provisioning Argo Workflows on OpenShift](https://medium.com/@marekermk/provisioning-argo-on-openshift-with-ansible-and-kustomize-340a1fda8b50)
+* [Argo CD: The GitOps Way](https://medium.com/@jon.mclean/argocd-the-gitops-way-90f7eb0d2606)
 * [Argo CD Best Practices](https://codefresh.io/argo-platform/argo-cd-best-practices/)
 * [Argo CD Build Environment Examples](https://akuity.io/blog/argo-cd-build-environment-examples/)
 * [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
