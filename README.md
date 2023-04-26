@@ -206,7 +206,42 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-🔥 KubeCon, GitOpsCon, AI Days North America 2022:
+🔥 ArgoCon Europe 2023 talks:
+* [Argo and GitOps in a Managed Services World](https://youtu.be/yOLyj42cbko?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [ArgoCD as the Engine of a Brownfield Migration to Kubernetes](https://youtu.be/fIXF8A5JUkw?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [ArgoCon EU 2023 Welcome + Opening Remarks](https://youtu.be/B-lUcDAvEEw?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Argo Project: The Cloud Native Key Ingredient](https://youtu.be/BFI3mya-dJk?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Argo Rollouts from the Trenches – Next Level Progressive Delivery Best Practices](https://youtu.be/jRlEh2O7qdY?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Argo Rollouts Reinvented: Unleash the Power of Custom Plugins for Progressive Delivery](https://youtu.be/O-i8y8f0mFg?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Argo Workflows in Action: Rabobank's Journey to Cloud Native Banking](https://youtu.be/q7tRK9uPW0k?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Cloud Native Deployments in Air Gapped Environments](https://youtu.be/W1c7Gm8_Fh8?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Configuring Volumes for Parallel Workflow Reads and Writes](https://youtu.be/QZI-LXJGWYI?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [From Legacy to GitOps](https://youtu.be/UcxJ6tVf2dY?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [GitOps - The Magic Key to Cloud Native Security](https://youtu.be/nGcvPAQdpVg?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [GitOps and CI/CD: Maintaining Security in the Age of Automation](https://youtu.be/m7HtmGaDDjs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [GitOps Me Some of That! Managing Hundreds of Clusters with Argo CD ](https://youtu.be/rh95h0uOEc8?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [How to Avoid a Kubernetes Doom Loop](https://youtu.be/skOTc_evJnw?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [How to Preview and Diff Your Argo CD Deployments](https://youtu.be/X392bJX0AEs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Improving Release Reliability with Argo Rollouts Across 10k Customer Services](https://youtu.be/LSg7GJ2KzcU?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Leveraging Argo WorkflowTemplates Within a Data Platform](https://youtu.be/g8TCgnrM648?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Managing Artifacts at Scale for CI and Data Processing](https://youtu.be/ucnOQuNkIbE?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Merging Best Practices with Reality: One Repository for Code and Helm](https://youtu.be/yRkOAD6uLvE?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Multi-Branch Pipeline with Argo Workflows and CI/CD Debugging](https://youtu.be/O_2CkIxE9Gc?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [NextGen Argo: Elevating Continuous Delivery with Easy to use PLugins](https://youtu.be/uYKjSlarlN4?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Operate Sidecar and Sidecar-Less Applications with Istio and ArgoCD Rollouts](https://youtu.be/S0Ovalm8MF0?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Revolutionizing Continuous Deployment: How Databricks Integrates Argo Rollouts to Achieve Zero-Downtime Releases](https://youtu.be/9NsVYqfehio?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Sailing Across the Ocean of Argo Ecosystem Like a Pro](https://youtu.be/2Ld_oYU6-ow?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Scaling Argo Security and Multi-Tenancy in AWS EKS at the New York Times](https://youtu.be/rro686bRIQU?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Scaling Gene Therapy Research with Argo Workflows and Hera](https://youtu.be/h2TEw8kd1Ds?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Scaling GitOps Using ArgoCD Application-Sets: Lesson Learnt](https://youtu.be/bj9qLpomlrs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Shipping Argo Workflows in Packages](https://youtu.be/UbnlQkIjn-4?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Telefonistka - Safe and Controlled GitOps Promotion Across Environments](https://youtu.be/oiSsSiROj10?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Training and Ensuring Reliability of ML Models at Wolt: The Power of ArgoCD, Flyte, and Argo Workflows](https://youtu.be/p3EaPotovBs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+* [Using Kustomize KRM Functions to Enhance Argo CD Application Deployments](https://youtu.be/mVIo4qWggZU?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
+
+
+
+KubeCon, GitOpsCon, AI Days North America 2022:
 * [Building a Batch Processing Platform with Argo](https://www.youtube.com/watch?v=JQr16laspSs)
 * [Building Data Science Platform with Argo Workflows](https://www.youtube.com/watch?v=rLPuTL60T4c)
 * [How Adobe Planned For Scale With Argo CD, Cluster API, And VCluster](https://youtu.be/p8BluR5WT5w)
@@ -222,7 +257,7 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Observability In ArgoCD/Rollouts Using Streaming ML For Reducing MTTR](https://youtu.be/-YGS1hmd60E)
 * [Preview Environments with ArgoCD](https://youtu.be/7ahiwZuiCBM)
 
-🔥 ArgoCon 2022 talks:
+ArgoCon 2022 talks:
 * [Argo Roadmap Updates For CD, Rollouts, Workflows, and Events](https://youtu.be/b07iZCR2ktQ)
 * [From Code to Docs to Marketing: How to Contribute](https://youtu.be/kQZhdJn1Phw)
 * [Scaling Argo for the Enterprise](https://youtu.be/kIcuMCargiE)
