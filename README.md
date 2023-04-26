@@ -239,8 +239,6 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 * [Training and Ensuring Reliability of ML Models at Wolt: The Power of ArgoCD, Flyte, and Argo Workflows](https://youtu.be/p3EaPotovBs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
 * [Using Kustomize KRM Functions to Enhance Argo CD Application Deployments](https://youtu.be/mVIo4qWggZU?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
 
-
-
 KubeCon, GitOpsCon, AI Days North America 2022:
 * [Building a Batch Processing Platform with Argo](https://www.youtube.com/watch?v=JQr16laspSs)
 * [Building Data Science Platform with Argo Workflows](https://www.youtube.com/watch?v=rLPuTL60T4c)
