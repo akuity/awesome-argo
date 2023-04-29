@@ -2,7 +2,7 @@
 
 # Awesome Argo
 
-🎉 [ArgoCon comes to Europe as a KubeCon 2023 co-located event!](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
+🎉 [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
 
 🔔 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
