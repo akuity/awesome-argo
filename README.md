@@ -77,6 +77,7 @@ Other open source projects that use Argo:
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [Flowify](https://equinor.github.io/flowify-documentation/) Collaborative no code UI for Argo Workflows.
+* [Kargo](https://github.com/akuity/kargo) helps GitOps practitioners streamline continuous delivery for Kubernetes by automating the progression of changes from one environment to the next.
 * [k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) is a framework to set up production ready Kubernetes clusters using Terraform and Argo CD.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
 * [kubefirst](https://github.com/kubefirst/kubefirst/) provides fully automated open source application delivery and infrastructure management GitOps platforms for Kubernetes.
