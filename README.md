@@ -2,9 +2,11 @@
 
 # Awesome Argo
 
-🎉 [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
+🔔 NEWS:
+* ArgoCon North America 2023 is now a co-located event at KubeCon/CloudNativeCon 2023 Chicago. [CFP is now open!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/)
+* [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
 
-🔔 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
+Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
 A curated list of awesome projects and resources related to [Argo](https://argoproj.github.io/), a [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) graduated project.
 
