@@ -394,7 +394,7 @@ Other talks:
 
 * [Argo Community Calendar](https://calendar.google.com/calendar/embed?src=argoproj@gmail.com) ([ICS File](https://calendar.google.com/calendar/ical/argoproj%40gmail.com/public/basic.ics))
 * [Argo Project GitHub Organization](https://github.com/argoproj) ([Maintainers](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md) and [Community Governance](https://github.com/argoproj/argoproj/blob/master/community/GOVERNANCE.md))
-* ArgoCon ([2022](https://events.linuxfoundation.org/argocon/) and [2021](https://argoproj.github.io/argocon21/))
+* [ArgoCon](https://events.linuxfoundation.org/argocon/)
 * Argo Project User Survey Results:
   * 2023: [CD & Rollouts](https://blog.argoproj.io/cncf-argo-cd-rollouts-2023-user-survey-results-514aa21c21df), [Workflows & Events](TBA)
   * [2022](https://blog.argoproj.io/cncf-argo-project-2022-user-survey-results-f9caf46df7fd)
@@ -414,7 +414,7 @@ Social media accounts:
 
 ## Acknowledgement
 
-Some of the blogposts and videos are selected from [Argo's community blogs and presentations](https://github.com/argoproj/argoproj#community-blogs-and-presentations).
+Some blogposts and videos are selected from [Argo's community blogs and presentations](https://github.com/argoproj/argoproj#community-blogs-and-presentations).
 
 Thanks to the contributors who've submitted pull requests to add the original references to the following locations:
 * [Argo Workflows](https://github.com/argoproj/argo-workflows/blob/master/README.md#community-blogs-and-presentations)
