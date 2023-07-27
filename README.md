@@ -162,6 +162,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [How to Update your OpenFaaS Functions Automatically with the Argo CD Image Updater](https://www.openfaas.com/blog/argocd-image-updater-for-functions/)
 * [Human-Centric Data Science on Kubernetes with Metaflow](https://blog.argoproj.io/human-centric-data-science-on-kubernetes-with-metaflow-7f60aad34cba)
 * [Humans of Cloud Native: Yuan Tang – From Argo to Mentoring and Everything In Between](https://www.cncf.io/humans-of-cloud-native/yuan-tang-from-argo-to-mentoring-and-everything-in-between/)
+* [Introducing the AI Assistant for Argo CD inside Akuity Platform](https://akuity.io/blog/akuity-argo-ai-assistant/)
 * [Jenkins X 3 and Argo CD](https://jenkins-x.io/blog/2021/06/28/argo/)
 * [KubeCon EU 2022 - Akuity Team Recap](https://akuity.io/blog/kubeconeu-2022-akuity-team-recap)
 * [Kubernetes Cluster Vending Machine With vcluster](https://blog.ediri.io/kubernetes-cluster-vending-machine-with-vcluster)
