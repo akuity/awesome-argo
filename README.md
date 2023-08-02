@@ -201,7 +201,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 
 Blogposts that provide comparisons:
 * ArgoCD
-  * vs. Flux: [[0]](https://akuity.io/blog/argo-cd-flux-comparison/), [[1]](https://www.sgmoratilla.com/2021-10-28-flux-vs-argocd/), [[2]](https://rajputvaibhav.medium.com/argo-cd-vs-flux-cd-right-gitops-tool-for-your-kubernetes-cluster-c71cff489d26), [[2]](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
+  * vs. Flux: [[0]](https://akuity.io/blog/argo-cd-flux-comparison/), [[1]](https://www.sgmoratilla.com/2021-10-28-flux-vs-argocd/), [[2]](https://rajputvaibhav.medium.com/argo-cd-vs-flux-cd-right-gitops-tool-for-your-kubernetes-cluster-c71cff489d26), [[3]](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
   * [vs. Spinnaker](https://tech.trell.co/choosing-a-continous-delivery-tool-spinnaker-vs-argocd-9adcc65a4fde)
   * [vs. Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
 * Argo Workflows
