@@ -55,6 +55,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community-maintained Helm charts for Argo projects.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
+* [Argo Rollouts Manager](https://github.com/argoproj-labs/argo-rollouts-manager) is a Kubernetes operator that provides an easy way to install, upgrade and manage the lifecycle of Argo Rollouts.
 * [Argo Workflows Catalog](https://github.com/argoproj-labs/argo-workflows-catalog) contains free reusable templates for Argo Workflows.
 * [Argo Workflows Plugins](https://argoproj.github.io/argo-workflows/plugin-directory) contains reusable plugins that extend Argo Workflows with new capabilities.
 * [GitOps Engine](https://github.com/argoproj/gitops-engine) contains various GitOps operators that address different use-cases and provide different user experiences but all have a similar set of core features.
