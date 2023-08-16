@@ -211,7 +211,7 @@ Blogposts that provide comparisons:
   * [vs. Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
 * Argo Workflows
   * [vs. Airflow and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
-  * [vs. Airflow](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660)
+  * vs. Airflow: [[0]](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660), [[1]](https://pipekit.io/blog/airflow-vs-argo-workflows), [[2]](https://hevodata.com/learn/argo-vs-airflow/)
 
 <a name="videos" />
 
