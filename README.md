@@ -3,8 +3,12 @@
 # Awesome Argo
 
 🔔 NEWS:
-* ArgoCon North America 2023 is now a co-located event at KubeCon/CloudNativeCon 2023 Chicago. [CFP is now open!](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/)
+* [ArgoCon North America 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/) is now a co-located event at KubeCon/CloudNativeCon 2023 Chicago.
 * [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
+* New releases:
+  * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
+  * [Argo CD v2.8 Release Candidate](https://blog.argoproj.io/argo-cd-v2-8-release-candidate-be4443d974f)
+  * [Argo Rollouts 1.5 Release Candidate](https://blog.argoproj.io/argo-rollouts-1-5-release-candidate-2bd93720e411)
 
 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
@@ -201,14 +205,13 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [What Is ArgoCD? A Practical Tutorial With Kubernetes](https://spacelift.io/blog/argocd)
 
 Blogposts that provide comparisons:
-* ArgoCD
+* Argo CD
   * vs. Flux: [[0]](https://akuity.io/blog/argo-cd-flux-comparison/), [[1]](https://www.sgmoratilla.com/2021-10-28-flux-vs-argocd/), [[2]](https://rajputvaibhav.medium.com/argo-cd-vs-flux-cd-right-gitops-tool-for-your-kubernetes-cluster-c71cff489d26), [[3]](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
   * [vs. Spinnaker](https://tech.trell.co/choosing-a-continous-delivery-tool-spinnaker-vs-argocd-9adcc65a4fde)
   * [vs. Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
 * Argo Workflows
   * [vs. Airflow and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
   * [vs. Airflow](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660)
-
 
 <a name="videos" />
 
