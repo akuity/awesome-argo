@@ -7,8 +7,8 @@
 * [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
 * New releases:
   * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
-  * [Argo CD v2.8 Release Candidate](https://blog.argoproj.io/argo-cd-v2-8-release-candidate-be4443d974f)
-  * [Argo Rollouts 1.5 Release Candidate](https://blog.argoproj.io/argo-rollouts-1-5-release-candidate-2bd93720e411)
+  * [Argo CD v2.9 Release Candidate](https://blog.argoproj.io/argo-cd-v2-9-release-candidate-a1e256d01017)
+  * [Argo Rollouts 1.6 Release](https://blog.argoproj.io/argo-rollouts-1-6-release-f6915c187f3e)
 
 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
