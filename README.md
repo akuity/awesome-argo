@@ -39,6 +39,7 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
   - [Books](#books)
   - [Blog Posts](#blog-posts)
   - [Videos](#videos)
+  - [Certifications](#certifications)
   - [Community](#community)
   - [Acknowledgement](#acknowledgement)
 
@@ -391,6 +392,12 @@ Other talks:
 * [Using Argo CD with vclusters](https://www.youtube.com/watch?v=M3ycfeocvNo)
 * [Using Argo Project to Help Elastic infoSec Team in Securing Elastic](https://youtu.be/B8a3ySHvfF0)
 * [Using Argo Workflows to Curate Chaos Engineering with LitmusChaos](https://youtu.be/fsGIbfd-O64)
+
+<a name="certifications" />
+
+## Certifications
+
+* [Introduction to Continuous Delivery and GitOps using Argo CD](https://academy.akuity.io/courses/gitops-argocd-intro) by [Akuity](https://akuity.io/)
 
 <a name="community" />
 
