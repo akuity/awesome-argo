@@ -3,7 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
-* [ArgoCon North America 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/argocon/) schedule is available [here](https://colocatedeventsna2023.sched.com/overview/type/ArgoCon).
+* ArgoCon North America 2023 [schedule](https://colocatedeventsna2023.sched.com/overview/type/ArgoCon) and [videos](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGWi_NTA3i66JCV3yzEMpz) are available. 
 * [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
 * New releases:
   * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
