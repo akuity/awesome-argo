@@ -3,8 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
-* ArgoCon North America 2023 [schedule](https://colocatedeventsna2023.sched.com/overview/type/ArgoCon) and [videos](https://www.youtube.com/playlist?list=PLj6h78yzYM2MGWi_NTA3i66JCV3yzEMpz) are available. 
-* [ArgoCon and KubeCon Europe 2023 videos are available!](https://github.com/akuity/awesome-argo#videos)
+* ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
 * New releases:
   * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
   * [Argo CD v2.9 Release Candidate](https://blog.argoproj.io/argo-cd-v2-9-release-candidate-a1e256d01017)
