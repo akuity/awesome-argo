@@ -173,6 +173,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Jenkins X 3 and Argo CD](https://jenkins-x.io/blog/2021/06/28/argo/)
 * [KubeCon EU 2022 - Akuity Team Recap](https://akuity.io/blog/kubeconeu-2022-akuity-team-recap)
 * [Kubernetes Cluster Vending Machine With vcluster](https://blog.ediri.io/kubernetes-cluster-vending-machine-with-vcluster)
+* [Kubernetes multi cluster et multi région en GitOps avec ArgoCD](https://www.mcorbin.fr/posts/2023-05-01-multi-cluster-argo/) (French)
 * [Kubernetes Security through GitOps Best Practices: ArgoCD and Starboard](https://anaisurl.com/gitops-argocd-starboard/)
 * [Machine Learning Hyperparameter Optimization with Argo](https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c)
 * [Making Complex R Applications into Production using Argo Workflows](https://blog.argoproj.io/making-complex-r-application-into-production-using-argo-workflows-648ce5d190b5)
