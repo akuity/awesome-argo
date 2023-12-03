@@ -435,6 +435,7 @@ Other talks:
 
 ## Certifications
 
+* [Certified Argo Project Associate (CAPA) certification from CNCF](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)
 * [Introduction to Continuous Delivery and GitOps using Argo CD](https://academy.akuity.io/courses/gitops-argocd-intro) by [Akuity](https://akuity.io/)
 
 <a name="community" />
