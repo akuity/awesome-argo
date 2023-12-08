@@ -3,6 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
+* The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Argo Workflows) is officially published!
 * ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
 * New releases:
   * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
