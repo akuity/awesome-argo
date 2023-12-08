@@ -222,13 +222,14 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-🔥 ArgoCon North America 2023 talks:
+🔥 ArgoCon and KubeCon North America 2023 talks:
 * [Enforcing Supply Chain Security and Simplifying Compliance Audit for ArgoCD Deployments](https://youtu.be/MxeXmN5cY4U?si=Qoq1TS2sudLNWFoK)
 * [Managing Argo CD Multi-Tenancy Effectively](https://youtu.be/HoVljPnJO1c?si=krut7ggiDxGZRkef)
 * [Multi-Stage Deployment Pipelines the GitOps Way](https://youtu.be/_xsqKgWRsWI?si=HiEoD7lv7sA678q9)
 * [DevOps in a GitOps World](https://youtu.be/hyA21gVaVsg?si=Oc5qRDfJT3hqaWJF)
 * [Argo in an AI-Native World: Effective In-Cluster Machine Learning and Analytics at Scale](https://youtu.be/_nMmfW4Prl4?si=TpQxOr5f57DyfCft)
 * [Expanding the Application Lifecycle for Everyone](https://youtu.be/XME4DELrhOc?si=U8YQ01c2iX0tp9N5)
+* [Beyond Prototypes: Production-Ready ML Systems with Metaflow and Argo](https://youtu.be/mupRo7TX_H8?si=plxat7g2VLLDq6aD)
 * [Major League Baseball + Argo CD: A Home Run](https://youtu.be/lLyzRvSM_6k?si=O_q13oh8VqARrlCv)
 * [Migrating CI/CD from Jenkins to Argo](https://youtu.be/kKLIuAEc5Zw?si=7rIW0pF-CJCrAD2z)
 * [Git Going Fast with Cilium and Argo](https://youtu.be/Ab9sctO-8Uk?si=1FOse8WJRu6_97iu)
