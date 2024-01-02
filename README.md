@@ -135,6 +135,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Embracing Cloud-Native for Apache DolphinScheduler with Kubernetes: a Case Study](https://www.infoq.com/articles/cloud-native-apache-dolphinscheduler/)
 * [Enforcing Kubernetes Best Practices Using Kyverno and Argo CD](https://akuity.io/blog/argo-cd-kyverno-best-practice-policies)
 * [Exploring Messaging Systems with Argo Events](https://dfarr.medium.com/exploring-messaging-systems-with-argo-events-a259f663bd30)
+* [Extending GitOps: Effortless Continuous Integration and Deployment on Kubernetes](https://amplication.com/blog/extending-gitops-effortless-continuous-integration-and-deployment-on-kubernetes)
 * [Four Lessons That Took Argo From First Commit to GitOps Darling](https://www.cncf.io/blog/2022/09/21/four-lessons-that-took-argo-from-first-commit-to-gitops-darling)
 * [From Argo to Mentoring and Everything In Between](https://www.cncf.io/humans-of-cloud-native/yuan-tang-from-argo-to-mentoring-and-everything-in-between/)
 * [Getting Started with ArgoCD for GitOps Kubernetes Deployments](https://medium.com/@outlier.developer/getting-started-with-argocd-for-gitops-kubernetes-deployments-fafc2ad2af0)
