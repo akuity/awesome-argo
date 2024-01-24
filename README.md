@@ -3,6 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
+* [ArgoCon 2024 schedule](https://colocatedeventseu2024.sched.com/overview/type/ArgoCon) is available!
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Argo Workflows) is officially published!
 * ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
 * New releases:
