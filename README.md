@@ -413,6 +413,7 @@ Other talks:
 * [Preventing Tag Mutation With kbld And Argo CD](https://www.youtube.com/watch?v=KkgHYdVfXwY)
 * [Preview Environments with ArgoCD](https://youtu.be/7ahiwZuiCBM)
 * [Processing Petabytes in Python with Argo Workflows & Dask](https://youtu.be/f5lPS9WKy_8)
+* [Production-Ready AI Platform on Kubernetes](https://github.com/terrytangyuan/public-talks/tree/main/talks/kubecon-europe-2024-production-ai-platform-on-k8s)
 * [Robocat Meets Octopus and Octocat: Interoperability in CI/CD](https://youtu.be/Yq5lqr6n0E8)
 * [Running Cloud-native Spark Jobs with Argo Workflows](https://youtu.be/X3xMtFs5XWo)
 * [Scaling Argo for the Enterprise](https://youtu.be/kIcuMCargiE)
