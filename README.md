@@ -3,7 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
-* [ArgoCon 2024 schedule](https://colocatedeventseu2024.sched.com/overview/type/ArgoCon) is available!
+* [Videos from ArgoCon Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2NA4NbSC6_mQNza2r3WV87h&si=VzNsDD5n8gwnH36J) is available!
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Argo Workflows) is officially published!
 * ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
 * New releases:
@@ -225,7 +225,9 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-🔥 ArgoCon and KubeCon North America 2023 talks:
+🔥 [ArgoCon Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2NA4NbSC6_mQNza2r3WV87h&si=VzNsDD5n8gwnH36J)
+
+ArgoCon and KubeCon North America 2023 talks:
 * [Enforcing Supply Chain Security and Simplifying Compliance Audit for ArgoCD Deployments](https://youtu.be/MxeXmN5cY4U?si=Qoq1TS2sudLNWFoK)
 * [Managing Argo CD Multi-Tenancy Effectively](https://youtu.be/HoVljPnJO1c?si=krut7ggiDxGZRkef)
 * [Multi-Stage Deployment Pipelines the GitOps Way](https://youtu.be/_xsqKgWRsWI?si=HiEoD7lv7sA678q9)
