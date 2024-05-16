@@ -80,6 +80,7 @@ Other open source projects that use Argo:
 * [argo-watcher](https://github.com/shini4i/argo-watcher) is a small service that improves the visibility of deployments that are using Argo CD Image Updater.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
 * [argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) is a plugin that allows you to composite multiple things together into a single argocd application or applicationSet. Includes allowing Helm+Kustomize, addition other manifests trivially and running additional plugins in a pipe.
+* [argocd-nutshell](https://github.com/jannfis/argocd-nutshell) is a set of scripts to set up repeatable, zero-conf demo and test environments for Argo CD using Vagrant, Ansible and VirtualBox
 * [argocd-trivy-extension](https://github.com/mziyabo/argocd-trivy-extension) is Argo CD extension to enable visualization of Trivy generated vulnerability reports in Argo CD UI.
 * [argopm](https://github.com/atlanhq/argopm) is a package manager for Argo Workflows. It enables developers to distribute and consume argo workflow templates as reusable modules.
 * [backstage-plugin-argo-cd](https://www.npmjs.com/package/@roadiehq/backstage-plugin-argo-cd) is a Argo CD plugin for Backstage, an open platform for building developer portals.
