@@ -140,6 +140,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Argo Security Automation with OSS-Fuzz](https://medium.com/argo-project/argo-security-automation-with-oss-fuzz-da38c1f86452)
 * [Argo Workflow As the Choice To Run Data Pipelines in Casavo](https://medium.com/casavo/argo-workflow-in-casavo-722b40362e4c)
 * [Argo Workflow — Container Template](https://medium.com/@chukmunnlee/argo-workflow-container-template-db9fbaa115b3)
+* [Argo Workflows Controller Scalability Testing on Amazon EKS](https://cnoe.io/blog/argo-workflow-scalability)
 * [Automate Canary Analysis on Kubernetes with Argo](https://blog.px.dev/argo-rollouts/)
 * [Building a Successful Open Source Community as an End User Company](https://medium.com/intuit-engineering/building-a-successful-open-source-community-as-an-end-user-company-89a70445134)
 * [Best Practices for Multi-tenancy in Argo CD](https://blog.argoproj.io/best-practices-for-multi-tenancy-in-argo-cd-273e25a047b0)
