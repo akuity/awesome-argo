@@ -134,6 +134,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Argo CD Best Practices](https://codefresh.io/argo-platform/argo-cd-best-practices/)
 * [Argo CD Build Environment Examples](https://akuity.io/blog/argo-cd-build-environment-examples/)
 * [ArgoCD Best Practices You Should Know](https://datree.io/resources/argocd-best-practices-you-should-know)
+* [ArgoCD Multi-cluster Deployments](https://deb4sh.github.io/2023/03/22/2023-02-09-DevOpsStories-ArgoCD-MultiCluster-Deployments/)
 * [ArgoCon 2021 Akuity Team Recap](https://akuity.io/blog/argocon-2021-akuity-team-recap/)
 * [Argo Integration Review](http://dev.matt.hillsdon.net/2018/03/24/argo-integration-review.html)
 * [Argo Rollouts and Service Mesh: Automate and Control Canary Releases](https://blog.flomesh.io/argo-rollouts-and-service-mesh-automate-and-control-canary-releases-c71e5403eb2)
