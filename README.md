@@ -215,6 +215,10 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Why We’re Switching Off Airflow — Sort Of](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660)
 * [Picking A Kubernetes Orchestrator: Airflow, Argo, and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
 * [What Is ArgoCD? A Practical Tutorial With Kubernetes](https://spacelift.io/blog/argocd)
+* [How to Structure Your Argo CD Repositories Using Application Sets](https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories-using-application-sets/
+* [How to Model Your GitOps Environments and Promote Releases between Them](https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/)
+* [Stop Using Branches for Deploying to Different GitOps Environments](https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/)
+* [How to Preview and Diff Your Argo CD Deployments](https://codefresh.io/blog/argo-cd-preview-diff/)
 
 Blogposts that provide comparisons:
 * Argo CD
