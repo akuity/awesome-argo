@@ -361,6 +361,7 @@ Other talks:
 * [Don’t Let a Bot In! Protect Fortune 500 Companies & Users](https://youtu.be/zZtnHkd3IS4)
 * [Dynamic, Event-Driven Machine Learning Pipelines with Argo Workflows](https://youtu.be/ei4r0a7eAV0)
 * [Easy Notifications for Kubernetes](https://youtu.be/gZ0MfSoHbY0)
+* [Engineering Cloud Native AI Platform](https://github.com/terrytangyuan/public-talks/tree/main/talks/platform-con-2024-engineering-cloud-native-ai-platform)
 * [Environments Based on Pull Requests (PRs): Using Argo CD To Apply GitOps Principles on Previews](https://youtu.be/cpAaI8p4R60)
 * [Exploring HashiCorp Vault and ArgoCD - the GitOps Way](https://youtu.be/2camnnjyviw)
 * [Extending GitOps to Manage K8s (so you don’t have to)!](https://youtu.be/bTHkDdXRx24)
