@@ -229,6 +229,10 @@ Please check out the [official Argo Project YouTube channel](https://www.youtube
 
 🔥 [ArgoCon Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2NA4NbSC6_mQNza2r3WV87h&si=VzNsDD5n8gwnH36J)
 
+KubeCon China 2024 talks:
+* [Revolutionizing Scientific Simulations with Argo Workflows](https://www.youtube.com/watch?v=BYVf7GhfiRg)
+* [Scaling Kubernetes: Best Practices for Managing Large-Scale Batch Jobs with Spark and Argo Workflow](https://www.youtube.com/watch?v=KqEKRPjy4aE)
+
 ArgoCon and KubeCon North America 2023 talks:
 * [Enforcing Supply Chain Security and Simplifying Compliance Audit for ArgoCD Deployments](https://youtu.be/MxeXmN5cY4U?si=Qoq1TS2sudLNWFoK)
 * [Managing Argo CD Multi-Tenancy Effectively](https://youtu.be/HoVljPnJO1c?si=krut7ggiDxGZRkef)
