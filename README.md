@@ -102,7 +102,7 @@ Other open source projects that use Argo:
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
 * [Orchest](https://github.com/orchest/orchest) is a tool for building data pipelines/workflows. It supports Jupyter notebooks and scripts in multiple languages and provides a user friendly UI/browser based editor.
 * [Orkestra](https://github.com/Azure/orkestra) is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent Helm charts and their dependencies.
-* [Piper](https://github.com/Rookout/piper) is a Kubernetes controller which enables managing multi-branch pipelines for Argo Workflows to shift left pipeline configuraiton.
+* [Piper](https://github.com/quickube/piper) is a Kubernetes controller which enables managing multi-branch pipelines for Argo Workflows to shift left pipeline configuraiton.
 * [Ploomber](https://github.com/ploomber/ploomber) helps overcome the challenges of working with Jupyter notebooks and allows teams to develop collaborative, production-ready pipelines using JupyterLab or any text editor.
 * [provider-argocd](https://github.com/crossplane-contrib/provider-argocd) is the Crossplane infrastructure provider for Argo CD.
 * [Reloader](https://github.com/stakater/Reloader) is a Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on associated Deployments/StatefulSets/Daemonsets and Argo Rollouts.
