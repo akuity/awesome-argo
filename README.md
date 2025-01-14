@@ -116,7 +116,7 @@ Other open source projects that use Argo:
 
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows with real-world scenarios and hands-on projects.
 * [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) teaches you how to use Git and the GitOps methodology to manage a Kubernetes cluster. The book interleaves theory with practice, presenting core Ops concepts alongside easy-to-implement techniques so you can put GitOps into action. Learn to develop pipelines that trace changes, roll back mistakes, and audit container deployment.
-
+* [Argo CD: Up and Running](https://www.oreilly.com/library/view/argo-cd-up/9781098141998/) Learn how to manage Kubernetes clusters and application configurations with Argo CD, the easy-to-use open source GitOps engine. With this practical book, development teams will quickly gain a foundational understanding of Argo CD for deploying and managing containerized applications - without having to be a Kubernetes expert, and without needing full access to the Kubernetes system. 
 
 <a name="blogs" />
 
