@@ -97,7 +97,7 @@ Other open source projects that use Argo:
 * [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
 * [Metaflow](https://github.com/Netflix/metaflow) is a Python library for building and managing real-life data science projects.
-* [Nixidy](https://github.com/arnarg/nixidy) is a tool to apply the rendered manifest pattern using NixOS-like modules to define Argo CD applications. 
+* [Nixidy](https://github.com/arnarg/nixidy) is a tool to apply the rendered manifest pattern using NixOS-like modules to define Argo CD applications.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
 * [Orchest](https://github.com/orchest/orchest) is a tool for building data pipelines/workflows. It supports Jupyter notebooks and scripts in multiple languages and provides a user friendly UI/browser based editor.
 * [Orkestra](https://github.com/Azure/orkestra) is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent Helm charts and their dependencies.
@@ -116,7 +116,7 @@ Other open source projects that use Argo:
 
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows with real-world scenarios and hands-on projects.
 * [GitOps and Kubernetes](https://www.manning.com/books/gitops-and-kubernetes) teaches you how to use Git and the GitOps methodology to manage a Kubernetes cluster. The book interleaves theory with practice, presenting core Ops concepts alongside easy-to-implement techniques so you can put GitOps into action. Learn to develop pipelines that trace changes, roll back mistakes, and audit container deployment.
-* [Argo CD: Up and Running](https://www.oreilly.com/library/view/argo-cd-up/9781098141998/) Learn how to manage Kubernetes clusters and application configurations with Argo CD, the easy-to-use open source GitOps engine. With this practical book, development teams will quickly gain a foundational understanding of Argo CD for deploying and managing containerized applications - without having to be a Kubernetes expert, and without needing full access to the Kubernetes system. 
+* [Argo CD: Up and Running](https://www.oreilly.com/library/view/argo-cd-up/9781098141998/) Learn how to manage Kubernetes clusters and application configurations with Argo CD, the easy-to-use open source GitOps engine. With this practical book, development teams will quickly gain a foundational understanding of Argo CD for deploying and managing containerized applications - without having to be a Kubernetes expert, and without needing full access to the Kubernetes system.
 
 <a name="blogs" />
 
@@ -214,7 +214,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Why We’re Switching Off Airflow — Sort Of](https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660)
 * [Picking A Kubernetes Orchestrator: Airflow, Argo, and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
 * [What Is ArgoCD? A Practical Tutorial With Kubernetes](https://spacelift.io/blog/argocd)
-* [How to Structure Your Argo CD Repositories Using Application Sets](https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories-using-application-sets/
+* [How to Structure Your Argo CD Repositories Using Application Sets](https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories-using-application-sets/)
 * [How to Model Your GitOps Environments and Promote Releases between Them](https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/)
 * [Stop Using Branches for Deploying to Different GitOps Environments](https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/)
 * [How to Preview and Diff Your Argo CD Deployments](https://codefresh.io/blog/argo-cd-preview-diff/)
