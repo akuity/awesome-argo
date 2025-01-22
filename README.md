@@ -204,7 +204,7 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Stay Up to Date With Argo CD and Renovate](https://mjpitz.com/blog/2020/12/03/renovate-your-gitops/)
 * Terraform Automation With Argo on Kubernetes ([Part1](https://medium.com/insideboard/terraform-automation-with-argo-on-kubernetes-part1-51b3914028d6) & [Part2](https://medium.com/insideboard/terraform-automation-with-argo-on-kubernetes-part2-consul-vault-92a020432cd0))
 * [The Dynamic Duo of Kubernetes: Exploring Argo CD and Cluster API Integration](https://cloudnativesolutions.ro/blog/argocd-and-clusterapi/)
-* [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://akuity.io/blog/unveil-the-secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argocd-kubecon-china-2021/)
+* [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://akuity.io/blog/secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argocd/)
 * [Using Argo to Train Predictive Models](https://flightaware.engineering/using-argo-to-train-predictive-models/)
 * [Using Argo CD with vclusters](https://medium.com/@helfand.4/using-argo-cd-with-vclusters-ff8b9c16ac9e)
 * [Preventing Tag Mutation With kbld And Argo CD](https://blog.argoproj.io/preventing-tag-mutation-with-kbld-and-argo-cd-19cecd65963)
