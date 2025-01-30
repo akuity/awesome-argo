@@ -3,6 +3,7 @@
 # Awesome Argo
 
 🔔 NEWS:
+* [Join us at ArgoCon Europe 2025 in London](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)!
 * [Recordings for ArgoCon North America 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Ow7Jy0paxwrimeuFGONU_7&si=KTfeJCPtFGqyMRh5)
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Argo Workflows) is officially published!
 * ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
