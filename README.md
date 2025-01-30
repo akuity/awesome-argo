@@ -97,6 +97,7 @@ Other open source projects that use Argo:
 * [kubefirst](https://github.com/kubefirst/kubefirst/) provides fully automated open source application delivery and infrastructure management GitOps platforms for Kubernetes.
 * [Kubeflow Katib](https://github.com/kubeflow/katib) is a Kubernetes-native project for automated machine learning (AutoML).
 * [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Meshery](https://github.com/meshery/meshery) is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). 
 * [Metaflow](https://github.com/Netflix/metaflow) is a Python library for building and managing real-life data science projects.
 * [Nixidy](https://github.com/arnarg/nixidy) is a tool to apply the rendered manifest pattern using NixOS-like modules to define Argo CD applications.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
