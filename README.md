@@ -111,6 +111,7 @@ Other open source projects that use Argo:
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Tator](https://github.com/cvisionai/tator) is a web platform for analyzing large video and image datasets. Tator lets you rapidly deploy custom analytics workflows to gain insights from your raw imagery.
 * [terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) is the Terraform provider for Argo CD.
+* [Tugboat](https://argo-tugboat.readthedocs.io/en/stable/) is a linter for Argo Workflows that helps identify and resolve potential issues in workflow manifests before they become runtime problems, ensuring smoother deployments.
 
 <a name="books" />
 
