@@ -3,14 +3,9 @@
 # Awesome Argo
 
 🔔 NEWS:
-* [Join us at ArgoCon Europe 2025 in London](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)!
+* [Recordings for ArgoCon Europe 2025 in London](https://youtube.com/playlist?list=PLj6h78yzYM2N9MWCsU_4upn64NDtHGv6i&si=w52fDIL4rHGDjXBX)
 * [Recordings for ArgoCon North America 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Ow7Jy0paxwrimeuFGONU_7&si=KTfeJCPtFGqyMRh5)
 * The book [Distributed Machine Learning Patterns](https://bit.ly/2RKv8Zo) from Manning Publications (uses Argo Workflows) is officially published!
-* ArgoCon North America 2023 [videos](https://github.com/akuity/awesome-argo#videos) are available!
-* New releases:
-  * [What’s new in Argo Workflows v3.5](https://blog.argoproj.io/whats-new-in-argo-workflows-v3-5-f260e8603ca6)
-  * [Argo CD v2.11 Release Candidate](https://blog.argoproj.io/argo-cd-v2-11-release-candidate-b83ba3008ba5)
-  * [Argo Rollouts 1.7 Release](https://blog.argoproj.io/argo-rollouts-1-7-release-candidate-8e391af94b7e?gi=5982149c2a2e)
 
 Links to recordings for talks from various conferences, such as ArgoCon and KubeCon, are added as soon as they become available!
 
@@ -236,8 +231,10 @@ Blogposts that provide comparisons:
 
 Please check out the [official Argo Project YouTube channel](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA).
 
-[ArgoCon North America 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Ow7Jy0paxwrimeuFGONU_7&si=KTfeJCPtFGqyMRh5)
-[ArgoCon Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2NA4NbSC6_mQNza2r3WV87h&si=VzNsDD5n8gwnH36J)
+ArgoCon recordings:
+* [ArgoCon Europe 2025](https://youtube.com/playlist?list=PLj6h78yzYM2N9MWCsU_4upn64NDtHGv6i&si=w52fDIL4rHGDjXBX)
+* [ArgoCon North America 2024](https://youtube.com/playlist?list=PLj6h78yzYM2Ow7Jy0paxwrimeuFGONU_7&si=KTfeJCPtFGqyMRh5)
+* [ArgoCon Europe 2024](https://youtube.com/playlist?list=PLj6h78yzYM2NA4NbSC6_mQNza2r3WV87h&si=VzNsDD5n8gwnH36J)
 
 KubeCon China 2024 talks:
 * [Revolutionizing Scientific Simulations with Argo Workflows](https://www.youtube.com/watch?v=BYVf7GhfiRg)
