@@ -32,6 +32,9 @@ In addition, [argoproj-labs](https://github.com/argoproj-labs) is a separate Git
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Awesome Argo](#awesome-argo)
+  - [What is Argo?](#what-is-argo)
+  - [Table of Contents](#table-of-contents)
   - [Ecosystem Projects](#ecosystem-projects)
   - [Books](#books)
   - [Blog Posts](#blog-posts)
@@ -54,6 +57,7 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Argo CD Image Updater](https://github.com/argoproj-labs/argocd-image-updater) is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.
 * [Argo CD Interlace](https://github.com/argoproj-labs/argocd-interlace) is a Kubernetes controller to enable software supply chain security capabilities in Argo CD.
 * [Argo CD Operator](https://github.com/argoproj-labs/argocd-operator) is a Kubernetes operator for managing Argo CD clusters.
+* [Argo CD RBAC Operator](https://github.com/argoproj-labs/argocd-rbac-operator) is a Kubernetes operator for managing Argo CD's RBAC. It supports both global scoped RBAC (`argocd-rbac-cm`) and project scoped RBAC (AppProjects).
 * [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) is an Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes resources.
 * [Argo Helm](https://github.com/argoproj/argo-helm) is a collection of community-maintained Helm charts for Argo projects.
 * [Argo Rollout Extension](https://github.com/argoproj-labs/rollout-extension) contains the Argo Rollout dashboard that can be added into the Argo CD Web UI.
