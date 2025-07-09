@@ -220,6 +220,12 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [How to Model Your GitOps Environments and Promote Releases between Them](https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/)
 * [Stop Using Branches for Deploying to Different GitOps Environments](https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/)
 * [How to Preview and Diff Your Argo CD Deployments](https://codefresh.io/blog/argo-cd-preview-diff/)
+* [What is Argo? An Introduction to Kubernetes' Most Powerful Tools](https://akuity.io/blog/argo-101-what-is-argo)
+* [What is Argo CD? Features, Benefits, and How it Works](https://akuity.io/blog/what-is-argo-cd-features-and-business-benefits)
+* [How to Supply Custom Values Files to a Helm Chart in Argo CD](https://akuity.io/blog/argo-cd-helm-values-files)
+* [Managing Application Dependencies with Argo CD: Best Practices and Patterns](https://akuity.io/blog/application-dependencies-with-argo-cd)
+* [How to Integrate Terraform with Argo CD for GitOps Workflows](https://akuity.io/blog/yet-another-take-on-integrating-terraform-with-argo-cd)
+* [The 3 Most Common Argo CD Architectures Explained](https://akuity.io/blog/argo-cd-architectures-explained)
 
 Blogposts that provide comparisons:
 * Argo CD
