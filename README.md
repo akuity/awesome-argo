@@ -16,8 +16,7 @@ A curated list of awesome projects and resources related to [Argo](https://argop
 
 This list is maintained and sponsored by [Akuity](https://akuity.io/), the Enterprise Company for Argo Project.
 
-<img align="center" src="images/akuity.png" alt="akuity" width="50%" height="50%">
-
+<img alt="Akuity Image" height="40%" src="images/akuity.png" width="50%"/>
 
 ## What is Argo?
 
