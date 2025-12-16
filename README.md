@@ -68,7 +68,6 @@ Selected projects from [argoproj](https://github.com/argoproj) (other than the f
 * [Hera](https://github.com/argoproj-labs/hera) is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone.
 * [Notifications Engine](https://github.com/argoproj/notifications-engine) is a configuration-driven Golang library that provides notifications for cloud-native applications.
 
-
 Other open source projects that use Argo:
 
 * [active-monitor](https://github.com/keikoproj/active-monitor) is a Kubernetes controller which enables deep cluster monitoring and self-healing using Argo Workflows.
@@ -90,6 +89,7 @@ Other open source projects that use Argo:
 * [deployKF](https://github.com/deployKF/deployKF) effortlessly integrates Kubeflow, and leading MLOps tools on Kubernetes into open ML platforms (uses Argo CD and Argo Workflows).
 * [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [Flowify](https://equinor.github.io/flowify-documentation/) Collaborative no code UI for Argo Workflows.
+* [Juno](https://github.com/lumindigital/juno) is an Argo Workflows Generator written in Typescript. Juno helps take the pain out of writing workflows in YAML
 * [k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) is a framework to set up production ready Kubernetes clusters using Terraform and Argo CD.
 * [Kargo](https://github.com/akuity/kargo) helps GitOps practitioners streamline continuous delivery for Kubernetes by automating the progression of changes from one environment to the next.
 * [Kedro](https://github.com/quantumblacklabs/kedro) is an open-source Python framework for creating reproducible, maintainable and modular data science code.
