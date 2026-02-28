@@ -205,7 +205,6 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 * [Setting up Argo CD With Helm](https://www.arthurkoziel.com/setting-up-argocd-with-helm/)
 * [Simplify and Automate Deployments Using GitOps with IBM Multicloud Manager 3.1.2](https://www.ibm.com/cloud/blog/simplify-and-automate-deployments-using-gitops-with-ibm-multicloud-manager-3-1-2)
 * [Solving Configuration Drift Using GitOps with Argo CD](https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-with-argo-cd/)
-* [Stay Up to Date With Argo CD and Renovate](https://mjpitz.com/blog/2020/12/03/renovate-your-gitops/)
 * Terraform Automation With Argo on Kubernetes ([Part1](https://medium.com/insideboard/terraform-automation-with-argo-on-kubernetes-part1-51b3914028d6) & [Part2](https://medium.com/insideboard/terraform-automation-with-argo-on-kubernetes-part2-consul-vault-92a020432cd0))
 * [The Dynamic Duo of Kubernetes: Exploring Argo CD and Cluster API Integration](https://cloudnativesolutions.ro/blog/argocd-and-clusterapi/)
 * [Unveil the Secret Ingredients of Continuous Delivery at Enterprise Scale with Argo CD](https://akuity.io/blog/secret-ingredients-of-continuous-delivery-at-enterprise-scale-with-argocd/)
@@ -232,7 +231,6 @@ Please check out the [official Argo Project blog](https://blog.argoproj.io/). Ad
 Blogposts that provide comparisons:
 * Argo CD
   * vs. Flux: [[0]](https://akuity.io/blog/argo-cd-flux-comparison/), [[1]](https://www.sgmoratilla.com/2021-10-28-flux-vs-argocd/), [[2]](https://rajputvaibhav.medium.com/argo-cd-vs-flux-cd-right-gitops-tool-for-your-kubernetes-cluster-c71cff489d26), [[3]](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
-  * [vs. Spinnaker](https://tech.trell.co/choosing-a-continous-delivery-tool-spinnaker-vs-argocd-9adcc65a4fde)
   * [vs. Spinnaker, Jenkins X, and Tekton](https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/)
 * Argo Workflows
   * [vs. Airflow and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
@@ -323,7 +321,6 @@ ArgoCon Europe 2023 talks:
 * [Shipping Argo Workflows in Packages](https://youtu.be/UbnlQkIjn-4?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
 * [Telefonistka - Safe and Controlled GitOps Promotion Across Environments](https://youtu.be/oiSsSiROj10?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
 * [Training and Ensuring Reliability of ML Models at Wolt: The Power of ArgoCD, Flyte, and Argo Workflows](https://youtu.be/p3EaPotovBs?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
-* [Using Kustomize KRM Functions to Enhance Argo CD Application Deployments](https://youtu.be/mVIo4qWggZU?list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq)
 
 Other talks:
 
