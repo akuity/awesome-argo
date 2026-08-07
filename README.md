@@ -76,6 +76,7 @@ Other open source projects that use Argo:
 * [argo-cd-action](https://github.com/clowdhaus/argo-cd-action) is a GitHub Action for executing Argo CD.
 * [argo-compare](https://github.com/shini4i/argo-compare) is a small CLI tool showing the difference in the resulting helm manifests rendered from Applications in different git branches.
 * [argo-cd-mixin](https://github.com/adinhodovic/argo-cd-mixin) is a monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.
+* [argo-trivy-insights](https://github.com/DeWildeDaan/Argo-Trivy-Insights) is a Argo CD extention to view and analyze Trivy vulnerability findings for individual Argo CD applications or across your entire GitOps fleet.
 * [argo-watcher](https://github.com/shini4i/argo-watcher) is a small service that improves the visibility of deployments that are using Argo CD Image Updater.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
 * [argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) is a plugin that allows you to composite multiple things together into a single argocd application or applicationSet. Includes allowing Helm+Kustomize, addition other manifests trivially and running additional plugins in a pipe.
