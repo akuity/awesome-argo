@@ -79,6 +79,7 @@ Other open source projects that use Argo:
 * [argo-cd-mixin](https://github.com/adinhodovic/argo-cd-mixin) is a monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.
 * [argo-watcher](https://github.com/shini4i/argo-watcher) is a small service that improves the visibility of deployments that are using Argo CD Image Updater.
 * [argocd-commenter](https://github.com/int128/argocd-commenter) is a Kubernetes controller to notify a change of Argo CD Application status via comments on GitHub pull requests and GitHub Deployments.
+* [argocd-gitops-updater-action](https://github.com/drumandbytes/argocd-gitops-updater-action) is a GitHub Action that bumps Helm chart and container image versions in GitOps repos, with Argo CD and Kustomize auto-discovery, semver bumps and Slack/Teams/Discord/Telegram notifications.
 * [argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) is a plugin that allows you to composite multiple things together into a single argocd application or applicationSet. Includes allowing Helm+Kustomize, addition other manifests trivially and running additional plugins in a pipe.
 * [argocd-nutshell](https://github.com/jannfis/argocd-nutshell) is a set of scripts to set up repeatable, zero-conf demo and test environments for Argo CD using Vagrant, Ansible and VirtualBox
 * [argocd-trivy-extension](https://github.com/mziyabo/argocd-trivy-extension) is Argo CD extension to enable visualization of Trivy generated vulnerability reports in Argo CD UI.
