@@ -87,6 +87,7 @@ Other open source projects that use Argo:
 * [argopm](https://github.com/atlanhq/argopm) is a package manager for Argo Workflows. It enables developers to distribute and consume argo workflow templates as reusable modules.
 * [backstage-plugin-argo-cd](https://www.npmjs.com/package/@roadiehq/backstage-plugin-argo-cd) is a Argo CD plugin for Backstage, an open platform for building developer portals.
 * [Cello](https://github.com/cello-proj/cello) is a service for running infrastructure as code software tools including CDK, Terraform and Cloud Formation via GitOps.
+* [chargo](https://github.com/Yodatek/chargo) is a Helm chart that renders the Argo CD objects of a whole platform — ApplicationSets, Applications, AppProjects and repository credentials — from a single values file, so what a cluster will receive can be read before it is applied.
 * [ci-github-notifiter](https://github.com/sendible-labs/ci-github-notifier) is a lightweight container to post Argo Workflow statuses back to GitHub as [Status Checks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks).
 * [Couler](https://github.com/couler-proj/couler) provides a unified interface for constructing and managing workflows on different workflow engines.
 * [deployKF](https://github.com/deployKF/deployKF) effortlessly integrates Kubeflow, and leading MLOps tools on Kubernetes into open ML platforms (uses Argo CD and Argo Workflows).
