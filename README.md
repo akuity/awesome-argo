@@ -102,6 +102,7 @@ Other open source projects that use Argo:
 * [KubeStellar Console](https://github.com/kubestellar/console) is an AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) that integrates with Argo CD for GitOps-driven workload placement and monitoring across edge and cloud clusters.
 * [Meshery](https://github.com/meshery/meshery) is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications (multi-cloud). 
 * [Metaflow](https://github.com/Netflix/metaflow) is a Python library for building and managing real-life data science projects.
+* [myks](https://github.com/mykso/myks) is a tool to apply the rendered manifest pattern to many clusters: it renders Helm charts, Git sources and plain YAML per environment into reviewable manifests in Git, and generates the Argo CD Applications that deploy them.
 * [Nixidy](https://github.com/arnarg/nixidy) is a tool to apply the rendered manifest pattern using NixOS-like modules to define Argo CD applications.
 * [Onepanel](https://github.com/onepanelio/onepanel) is the open source, end-to-end computer vision platform.
 * [Orchest](https://github.com/orchest/orchest) is a tool for building data pipelines/workflows. It supports Jupyter notebooks and scripts in multiple languages and provides a user friendly UI/browser based editor.
