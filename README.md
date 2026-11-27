@@ -91,6 +91,7 @@ Other open source projects that use Argo:
 * [deployKF](https://github.com/deployKF/deployKF) effortlessly integrates Kubeflow, and leading MLOps tools on Kubernetes into open ML platforms (uses Argo CD and Argo Workflows).
 * [Devtron](https://github.com/devtron-labs/devtron) is a Web-Based CI/CD Platform for Kubernetes, powered by Argo.
 * [Flowify](https://equinor.github.io/flowify-documentation/) Collaborative no code UI for Argo Workflows.
+* [gitlab-environment-argocd-generator](https://gitlab.com/tholcman/gitlab-environment-argocd-generator) is an ApplicationSet plugin generator that provides the commit SHA, ref and an optional JSON job artifact of a GitLab environment's last deployment.
 * [Juno](https://github.com/lumindigital/juno) is an Argo Workflows Generator written in Typescript. Juno helps take the pain out of writing workflows in YAML
 * [k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) is a framework to set up production ready Kubernetes clusters using Terraform and Argo CD.
 * [Kargo](https://github.com/akuity/kargo) helps GitOps practitioners streamline continuous delivery for Kubernetes by automating the progression of changes from one environment to the next.
